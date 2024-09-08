@@ -1,0 +1,337 @@
+prompt
+Question: Does visiting to asia directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the either? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the smoking? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the either? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the smoking? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the either directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the either directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the either directly cause the smoking? Just answer Yes or No.\n
+Question: Does the either directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the either directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the either directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the either directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the smoking directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the smoking directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the smoking directly cause the either? Just answer Yes or No.\n
+Question: Does the smoking directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the smoking directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the smoking directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the smoking directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the either? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the smoking? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the either? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the smoking? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the either? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the smoking? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the x-ray directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the either? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the smoking? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does visiting to asia causes something else which causes tuberculosis@bthe}? Just answer Yes or No.\n
+Question: Does visiting to asia causes something else which causes either@bthe}? Just answer Yes or No.\n
+Question: Does visiting to asia causes something else which causes smoking@bthe}? Just answer Yes or No.\n
+Question: Does visiting to asia causes something else which causes lung cancer@bthe}? Just answer Yes or No.\n
+Question: Does visiting to asia causes something else which causes bronchitis@bthe}? Just answer Yes or No.\n
+Question: Does visiting to asia causes something else which causes dyspnoea@bthe}? Just answer Yes or No.\n
+Question: Does visiting to asia causes something else which causes x-ray@bthe}? Just answer Yes or No.\n
+Question: Does the tuberculosis causes something else which causes visiting to asia@bthe}? Just answer Yes or No.\n
+Question: Does the tuberculosis causes something else which causes either@bthe}? Just answer Yes or No.\n
+Question: Does the tuberculosis causes something else which causes smoking@bthe}? Just answer Yes or No.\n
+Question: Does the tuberculosis causes something else which causes lung cancer@bthe}? Just answer Yes or No.\n
+Question: Does the tuberculosis causes something else which causes bronchitis@bthe}? Just answer Yes or No.\n
+Question: Does the tuberculosis causes something else which causes dyspnoea@bthe}? Just answer Yes or No.\n
+Question: Does the tuberculosis causes something else which causes x-ray@bthe}? Just answer Yes or No.\n
+Question: Does the either causes something else which causes visiting to asia@bthe}? Just answer Yes or No.\n
+Question: Does the either causes something else which causes tuberculosis@bthe}? Just answer Yes or No.\n
+Question: Does the either causes something else which causes smoking@bthe}? Just answer Yes or No.\n
+Question: Does the either causes something else which causes lung cancer@bthe}? Just answer Yes or No.\n
+Question: Does the either causes something else which causes bronchitis@bthe}? Just answer Yes or No.\n
+Question: Does the either causes something else which causes dyspnoea@bthe}? Just answer Yes or No.\n
+Question: Does the either causes something else which causes x-ray@bthe}? Just answer Yes or No.\n
+Question: Does the smoking causes something else which causes visiting to asia@bthe}? Just answer Yes or No.\n
+Question: Does the smoking causes something else which causes tuberculosis@bthe}? Just answer Yes or No.\n
+Question: Does the smoking causes something else which causes either@bthe}? Just answer Yes or No.\n
+Question: Does the smoking causes something else which causes lung cancer@bthe}? Just answer Yes or No.\n
+Question: Does the smoking causes something else which causes bronchitis@bthe}? Just answer Yes or No.\n
+Question: Does the smoking causes something else which causes dyspnoea@bthe}? Just answer Yes or No.\n
+Question: Does the smoking causes something else which causes x-ray@bthe}? Just answer Yes or No.\n
+Question: Does the lung cancer causes something else which causes visiting to asia@bthe}? Just answer Yes or No.\n
+Question: Does the lung cancer causes something else which causes tuberculosis@bthe}? Just answer Yes or No.\n
+Question: Does the lung cancer causes something else which causes either@bthe}? Just answer Yes or No.\n
+Question: Does the lung cancer causes something else which causes smoking@bthe}? Just answer Yes or No.\n
+Question: Does the lung cancer causes something else which causes bronchitis@bthe}? Just answer Yes or No.\n
+Question: Does the lung cancer causes something else which causes dyspnoea@bthe}? Just answer Yes or No.\n
+Question: Does the lung cancer causes something else which causes x-ray@bthe}? Just answer Yes or No.\n
+Question: Does the bronchitis causes something else which causes visiting to asia@bthe}? Just answer Yes or No.\n
+Question: Does the bronchitis causes something else which causes tuberculosis@bthe}? Just answer Yes or No.\n
+Question: Does the bronchitis causes something else which causes either@bthe}? Just answer Yes or No.\n
+Question: Does the bronchitis causes something else which causes smoking@bthe}? Just answer Yes or No.\n
+Question: Does the bronchitis causes something else which causes lung cancer@bthe}? Just answer Yes or No.\n
+Question: Does the bronchitis causes something else which causes dyspnoea@bthe}? Just answer Yes or No.\n
+Question: Does the bronchitis causes something else which causes x-ray@bthe}? Just answer Yes or No.\n
+Question: Does the dyspnoea causes something else which causes visiting to asia@bthe}? Just answer Yes or No.\n
+Question: Does the dyspnoea causes something else which causes tuberculosis@bthe}? Just answer Yes or No.\n
+Question: Does the dyspnoea causes something else which causes either@bthe}? Just answer Yes or No.\n
+Question: Does the dyspnoea causes something else which causes smoking@bthe}? Just answer Yes or No.\n
+Question: Does the dyspnoea causes something else which causes lung cancer@bthe}? Just answer Yes or No.\n
+Question: Does the dyspnoea causes something else which causes bronchitis@bthe}? Just answer Yes or No.\n
+Question: Does the dyspnoea causes something else which causes x-ray@bthe}? Just answer Yes or No.\n
+Question: Does the x-ray causes something else which causes visiting to asia@bthe}? Just answer Yes or No.\n
+Question: Does the x-ray causes something else which causes tuberculosis@bthe}? Just answer Yes or No.\n
+Question: Does the x-ray causes something else which causes either@bthe}? Just answer Yes or No.\n
+Question: Does the x-ray causes something else which causes smoking@bthe}? Just answer Yes or No.\n
+Question: Does the x-ray causes something else which causes lung cancer@bthe}? Just answer Yes or No.\n
+Question: Does the x-ray causes something else which causes bronchitis@bthe}? Just answer Yes or No.\n
+Question: Does the x-ray causes something else which causes dyspnoea@bthe}? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the either directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the smoking directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does the x-ray directly cause visiting to asia? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the either directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the smoking directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the tuberculosis? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the either? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the either? Just answer Yes or No.\n
+Question: Does the smoking directly cause the either? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the either? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the either? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the either? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the either? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the smoking? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the smoking? Just answer Yes or No.\n
+Question: Does the either directly cause the smoking? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the smoking? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the smoking? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the smoking? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the smoking? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the either directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the smoking directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the lung cancer? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the either directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the smoking directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the bronchitis? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the either directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the smoking directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does the x-ray directly cause the dyspnoea? Just answer Yes or No.\n
+Question: Does visiting to asia directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the tuberculosis directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the either directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the smoking directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the lung cancer directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the bronchitis directly cause the x-ray? Just answer Yes or No.\n
+Question: Does the dyspnoea directly cause the x-ray? Just answer Yes or No.\n
+Question: Is the tuberculosis a cause for visiting to asia but not a direct one? Just answer Yes or No.\n
+Question: Is the either a cause for visiting to asia but not a direct one? Just answer Yes or No.\n
+Question: Is the smoking a cause for visiting to asia but not a direct one? Just answer Yes or No.\n
+Question: Is the lung cancer a cause for visiting to asia but not a direct one? Just answer Yes or No.\n
+Question: Is the bronchitis a cause for visiting to asia but not a direct one? Just answer Yes or No.\n
+Question: Is the dyspnoea a cause for visiting to asia but not a direct one? Just answer Yes or No.\n
+Question: Is the x-ray a cause for visiting to asia but not a direct one? Just answer Yes or No.\n
+Question: Is visiting to asia a cause for the tuberculosis but not a direct one? Just answer Yes or No.\n
+Question: Is the either a cause for the tuberculosis but not a direct one? Just answer Yes or No.\n
+Question: Is the smoking a cause for the tuberculosis but not a direct one? Just answer Yes or No.\n
+Question: Is the lung cancer a cause for the tuberculosis but not a direct one? Just answer Yes or No.\n
+Question: Is the bronchitis a cause for the tuberculosis but not a direct one? Just answer Yes or No.\n
+Question: Is the dyspnoea a cause for the tuberculosis but not a direct one? Just answer Yes or No.\n
+Question: Is the x-ray a cause for the tuberculosis but not a direct one? Just answer Yes or No.\n
+Question: Is visiting to asia a cause for the either but not a direct one? Just answer Yes or No.\n
+Question: Is the tuberculosis a cause for the either but not a direct one? Just answer Yes or No.\n
+Question: Is the smoking a cause for the either but not a direct one? Just answer Yes or No.\n
+Question: Is the lung cancer a cause for the either but not a direct one? Just answer Yes or No.\n
+Question: Is the bronchitis a cause for the either but not a direct one? Just answer Yes or No.\n
+Question: Is the dyspnoea a cause for the either but not a direct one? Just answer Yes or No.\n
+Question: Is the x-ray a cause for the either but not a direct one? Just answer Yes or No.\n
+Question: Is visiting to asia a cause for the smoking but not a direct one? Just answer Yes or No.\n
+Question: Is the tuberculosis a cause for the smoking but not a direct one? Just answer Yes or No.\n
+Question: Is the either a cause for the smoking but not a direct one? Just answer Yes or No.\n
+Question: Is the lung cancer a cause for the smoking but not a direct one? Just answer Yes or No.\n
+Question: Is the bronchitis a cause for the smoking but not a direct one? Just answer Yes or No.\n
+Question: Is the dyspnoea a cause for the smoking but not a direct one? Just answer Yes or No.\n
+Question: Is the x-ray a cause for the smoking but not a direct one? Just answer Yes or No.\n
+Question: Is visiting to asia a cause for the lung cancer but not a direct one? Just answer Yes or No.\n
+Question: Is the tuberculosis a cause for the lung cancer but not a direct one? Just answer Yes or No.\n
+Question: Is the either a cause for the lung cancer but not a direct one? Just answer Yes or No.\n
+Question: Is the smoking a cause for the lung cancer but not a direct one? Just answer Yes or No.\n
+Question: Is the bronchitis a cause for the lung cancer but not a direct one? Just answer Yes or No.\n
+Question: Is the dyspnoea a cause for the lung cancer but not a direct one? Just answer Yes or No.\n
+Question: Is the x-ray a cause for the lung cancer but not a direct one? Just answer Yes or No.\n
+Question: Is visiting to asia a cause for the bronchitis but not a direct one? Just answer Yes or No.\n
+Question: Is the tuberculosis a cause for the bronchitis but not a direct one? Just answer Yes or No.\n
+Question: Is the either a cause for the bronchitis but not a direct one? Just answer Yes or No.\n
+Question: Is the smoking a cause for the bronchitis but not a direct one? Just answer Yes or No.\n
+Question: Is the lung cancer a cause for the bronchitis but not a direct one? Just answer Yes or No.\n
+Question: Is the dyspnoea a cause for the bronchitis but not a direct one? Just answer Yes or No.\n
+Question: Is the x-ray a cause for the bronchitis but not a direct one? Just answer Yes or No.\n
+Question: Is visiting to asia a cause for the dyspnoea but not a direct one? Just answer Yes or No.\n
+Question: Is the tuberculosis a cause for the dyspnoea but not a direct one? Just answer Yes or No.\n
+Question: Is the either a cause for the dyspnoea but not a direct one? Just answer Yes or No.\n
+Question: Is the smoking a cause for the dyspnoea but not a direct one? Just answer Yes or No.\n
+Question: Is the lung cancer a cause for the dyspnoea but not a direct one? Just answer Yes or No.\n
+Question: Is the bronchitis a cause for the dyspnoea but not a direct one? Just answer Yes or No.\n
+Question: Is the x-ray a cause for the dyspnoea but not a direct one? Just answer Yes or No.\n
+Question: Is visiting to asia a cause for the x-ray but not a direct one? Just answer Yes or No.\n
+Question: Is the tuberculosis a cause for the x-ray but not a direct one? Just answer Yes or No.\n
+Question: Is the either a cause for the x-ray but not a direct one? Just answer Yes or No.\n
+Question: Is the smoking a cause for the x-ray but not a direct one? Just answer Yes or No.\n
+Question: Is the lung cancer a cause for the x-ray but not a direct one? Just answer Yes or No.\n
+Question: Is the bronchitis a cause for the x-ray but not a direct one? Just answer Yes or No.\n
+Question: Is the dyspnoea a cause for the x-ray but not a direct one? Just answer Yes or No.\n
+Question: Is there at least one common effect of visiting to asia and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least one common effect of visiting to asia and the either? Just answer Yes or No.\n
+Question: Is there at least one common effect of visiting to asia and the smoking? Just answer Yes or No.\n
+Question: Is there at least one common effect of visiting to asia and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least one common effect of visiting to asia and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least one common effect of visiting to asia and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least one common effect of visiting to asia and the x-ray? Just answer Yes or No.\n
+Question: Is there at least one common effect of the tuberculosis and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least one common effect of the tuberculosis and the either? Just answer Yes or No.\n
+Question: Is there at least one common effect of the tuberculosis and the smoking? Just answer Yes or No.\n
+Question: Is there at least one common effect of the tuberculosis and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least one common effect of the tuberculosis and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the tuberculosis and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least one common effect of the tuberculosis and the x-ray? Just answer Yes or No.\n
+Question: Is there at least one common effect of the either and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least one common effect of the either and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the either and the smoking? Just answer Yes or No.\n
+Question: Is there at least one common effect of the either and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least one common effect of the either and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the either and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least one common effect of the either and the x-ray? Just answer Yes or No.\n
+Question: Is there at least one common effect of the smoking and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least one common effect of the smoking and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the smoking and the either? Just answer Yes or No.\n
+Question: Is there at least one common effect of the smoking and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least one common effect of the smoking and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the smoking and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least one common effect of the smoking and the x-ray? Just answer Yes or No.\n
+Question: Is there at least one common effect of the lung cancer and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least one common effect of the lung cancer and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the lung cancer and the either? Just answer Yes or No.\n
+Question: Is there at least one common effect of the lung cancer and the smoking? Just answer Yes or No.\n
+Question: Is there at least one common effect of the lung cancer and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the lung cancer and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least one common effect of the lung cancer and the x-ray? Just answer Yes or No.\n
+Question: Is there at least one common effect of the bronchitis and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least one common effect of the bronchitis and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the bronchitis and the either? Just answer Yes or No.\n
+Question: Is there at least one common effect of the bronchitis and the smoking? Just answer Yes or No.\n
+Question: Is there at least one common effect of the bronchitis and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least one common effect of the bronchitis and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least one common effect of the bronchitis and the x-ray? Just answer Yes or No.\n
+Question: Is there at least one common effect of the dyspnoea and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least one common effect of the dyspnoea and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the dyspnoea and the either? Just answer Yes or No.\n
+Question: Is there at least one common effect of the dyspnoea and the smoking? Just answer Yes or No.\n
+Question: Is there at least one common effect of the dyspnoea and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least one common effect of the dyspnoea and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the dyspnoea and the x-ray? Just answer Yes or No.\n
+Question: Is there at least one common effect of the x-ray and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least one common effect of the x-ray and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the x-ray and the either? Just answer Yes or No.\n
+Question: Is there at least one common effect of the x-ray and the smoking? Just answer Yes or No.\n
+Question: Is there at least one common effect of the x-ray and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least one common effect of the x-ray and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least one common effect of the x-ray and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least common cause of visiting to asia and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least common cause of visiting to asia and the either? Just answer Yes or No.\n
+Question: Is there at least common cause of visiting to asia and the smoking? Just answer Yes or No.\n
+Question: Is there at least common cause of visiting to asia and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least common cause of visiting to asia and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least common cause of visiting to asia and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least common cause of visiting to asia and the x-ray? Just answer Yes or No.\n
+Question: Is there at least common cause of the tuberculosis and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least common cause of the tuberculosis and the either? Just answer Yes or No.\n
+Question: Is there at least common cause of the tuberculosis and the smoking? Just answer Yes or No.\n
+Question: Is there at least common cause of the tuberculosis and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least common cause of the tuberculosis and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least common cause of the tuberculosis and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least common cause of the tuberculosis and the x-ray? Just answer Yes or No.\n
+Question: Is there at least common cause of the either and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least common cause of the either and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least common cause of the either and the smoking? Just answer Yes or No.\n
+Question: Is there at least common cause of the either and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least common cause of the either and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least common cause of the either and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least common cause of the either and the x-ray? Just answer Yes or No.\n
+Question: Is there at least common cause of the smoking and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least common cause of the smoking and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least common cause of the smoking and the either? Just answer Yes or No.\n
+Question: Is there at least common cause of the smoking and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least common cause of the smoking and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least common cause of the smoking and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least common cause of the smoking and the x-ray? Just answer Yes or No.\n
+Question: Is there at least common cause of the lung cancer and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least common cause of the lung cancer and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least common cause of the lung cancer and the either? Just answer Yes or No.\n
+Question: Is there at least common cause of the lung cancer and the smoking? Just answer Yes or No.\n
+Question: Is there at least common cause of the lung cancer and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least common cause of the lung cancer and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least common cause of the lung cancer and the x-ray? Just answer Yes or No.\n
+Question: Is there at least common cause of the bronchitis and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least common cause of the bronchitis and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least common cause of the bronchitis and the either? Just answer Yes or No.\n
+Question: Is there at least common cause of the bronchitis and the smoking? Just answer Yes or No.\n
+Question: Is there at least common cause of the bronchitis and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least common cause of the bronchitis and the dyspnoea? Just answer Yes or No.\n
+Question: Is there at least common cause of the bronchitis and the x-ray? Just answer Yes or No.\n
+Question: Is there at least common cause of the dyspnoea and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least common cause of the dyspnoea and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least common cause of the dyspnoea and the either? Just answer Yes or No.\n
+Question: Is there at least common cause of the dyspnoea and the smoking? Just answer Yes or No.\n
+Question: Is there at least common cause of the dyspnoea and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least common cause of the dyspnoea and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least common cause of the dyspnoea and the x-ray? Just answer Yes or No.\n
+Question: Is there at least common cause of the x-ray and visiting to asia? Just answer Yes or No.\n
+Question: Is there at least common cause of the x-ray and the tuberculosis? Just answer Yes or No.\n
+Question: Is there at least common cause of the x-ray and the either? Just answer Yes or No.\n
+Question: Is there at least common cause of the x-ray and the smoking? Just answer Yes or No.\n
+Question: Is there at least common cause of the x-ray and the lung cancer? Just answer Yes or No.\n
+Question: Is there at least common cause of the x-ray and the bronchitis? Just answer Yes or No.\n
+Question: Is there at least common cause of the x-ray and the dyspnoea? Just answer Yes or No.\n

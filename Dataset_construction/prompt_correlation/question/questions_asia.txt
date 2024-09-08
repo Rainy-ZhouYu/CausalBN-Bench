@@ -1,0 +1,280 @@
+Question: Are visiting to asia and the tuberculosis related? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the either related? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the smoking related? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the lung cancer related? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the bronchitis related? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the dyspnoea related? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the x-ray related? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and visiting to asia related? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and either related? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and smoking related? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and lung cancer related? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and bronchitis related? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and dyspnoea related? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and x-ray related? Just answer Yes or No. No explanation.\n
+Question: Are the either and visiting to asia related? Just answer Yes or No. No explanation.\n
+Question: Are the either and tuberculosis related? Just answer Yes or No. No explanation.\n
+Question: Are the either and smoking related? Just answer Yes or No. No explanation.\n
+Question: Are the either and lung cancer related? Just answer Yes or No. No explanation.\n
+Question: Are the either and bronchitis related? Just answer Yes or No. No explanation.\n
+Question: Are the either and dyspnoea related? Just answer Yes or No. No explanation.\n
+Question: Are the either and x-ray related? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and visiting to asia related? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and tuberculosis related? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and either related? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and lung cancer related? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and bronchitis related? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and dyspnoea related? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and x-ray related? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and visiting to asia related? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and tuberculosis related? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and either related? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and smoking related? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and bronchitis related? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and dyspnoea related? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and x-ray related? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and visiting to asia related? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and tuberculosis related? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and either related? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and smoking related? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and lung cancer related? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and dyspnoea related? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and x-ray related? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and visiting to asia related? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and tuberculosis related? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and either related? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and smoking related? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and lung cancer related? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and bronchitis related? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and x-ray related? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and visiting to asia related? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and tuberculosis related? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and either related? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and smoking related? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and lung cancer related? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and bronchitis related? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and dyspnoea related? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the tuberculosis correlated? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the either correlated? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the smoking correlated? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the lung cancer correlated? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the bronchitis correlated? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the dyspnoea correlated? Just answer Yes or No. No explanation.\n
+Question: Are visiting to asia and the x-ray correlated? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and visiting to asia correlated? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and either correlated? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and smoking correlated? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and lung cancer correlated? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and bronchitis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and dyspnoea correlated? Just answer Yes or No. No explanation.\n
+Question: Are the tuberculosis and x-ray correlated? Just answer Yes or No. No explanation.\n
+Question: Are the either and visiting to asia correlated? Just answer Yes or No. No explanation.\n
+Question: Are the either and tuberculosis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the either and smoking correlated? Just answer Yes or No. No explanation.\n
+Question: Are the either and lung cancer correlated? Just answer Yes or No. No explanation.\n
+Question: Are the either and bronchitis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the either and dyspnoea correlated? Just answer Yes or No. No explanation.\n
+Question: Are the either and x-ray correlated? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and visiting to asia correlated? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and tuberculosis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and either correlated? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and lung cancer correlated? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and bronchitis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and dyspnoea correlated? Just answer Yes or No. No explanation.\n
+Question: Are the smoking and x-ray correlated? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and visiting to asia correlated? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and tuberculosis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and either correlated? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and smoking correlated? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and bronchitis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and dyspnoea correlated? Just answer Yes or No. No explanation.\n
+Question: Are the lung cancer and x-ray correlated? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and visiting to asia correlated? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and tuberculosis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and either correlated? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and smoking correlated? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and lung cancer correlated? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and dyspnoea correlated? Just answer Yes or No. No explanation.\n
+Question: Are the bronchitis and x-ray correlated? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and visiting to asia correlated? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and tuberculosis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and either correlated? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and smoking correlated? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and lung cancer correlated? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and bronchitis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the dyspnoea and x-ray correlated? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and visiting to asia correlated? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and tuberculosis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and either correlated? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and smoking correlated? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and lung cancer correlated? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and bronchitis correlated? Just answer Yes or No. No explanation.\n
+Question: Are the x-ray and dyspnoea correlated? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between visiting to asia and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between visiting to asia and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between visiting to asia and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between visiting to asia and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between visiting to asia and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between visiting to asia and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between visiting to asia and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the tuberculosis and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the tuberculosis and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the tuberculosis and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the tuberculosis and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the tuberculosis and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the tuberculosis and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the tuberculosis and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the either and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the either and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the either and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the either and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the either and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the either and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the either and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the smoking and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the smoking and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the smoking and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the smoking and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the smoking and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the smoking and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the smoking and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the lung cancer and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the lung cancer and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the lung cancer and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the lung cancer and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the lung cancer and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the lung cancer and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the lung cancer and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the bronchitis and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the bronchitis and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the bronchitis and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the bronchitis and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the bronchitis and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the bronchitis and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the bronchitis and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the dyspnoea and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the dyspnoea and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the dyspnoea and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the dyspnoea and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the dyspnoea and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the dyspnoea and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the dyspnoea and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the x-ray and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the x-ray and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the x-ray and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the x-ray and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the x-ray and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the x-ray and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a correlation between the x-ray and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between visiting to asia and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between visiting to asia and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between visiting to asia and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between visiting to asia and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between visiting to asia and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between visiting to asia and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between visiting to asia and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the tuberculosis and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the tuberculosis and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the tuberculosis and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the tuberculosis and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the tuberculosis and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the tuberculosis and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the tuberculosis and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the either and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the either and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the either and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the either and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the either and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the either and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the either and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the smoking and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the smoking and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the smoking and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the smoking and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the smoking and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the smoking and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the smoking and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the lung cancer and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the lung cancer and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the lung cancer and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the lung cancer and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the lung cancer and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the lung cancer and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the lung cancer and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the bronchitis and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the bronchitis and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the bronchitis and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the bronchitis and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the bronchitis and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the bronchitis and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the bronchitis and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the dyspnoea and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the dyspnoea and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the dyspnoea and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the dyspnoea and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the dyspnoea and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the dyspnoea and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the dyspnoea and the x-ray? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the x-ray and visiting to asia? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the x-ray and the tuberculosis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the x-ray and the either? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the x-ray and the smoking? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the x-ray and the lung cancer? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the x-ray and the bronchitis? Just answer Yes or No. No explanation.\n
+Question: Is there a relation between the x-ray and the dyspnoea? Just answer Yes or No. No explanation.\n
+Question: Do visiting to asia and the tuberculosis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do visiting to asia and the either have a connection? Just answer Yes or No. No explanation.\n
+Question: Do visiting to asia and the smoking have a connection? Just answer Yes or No. No explanation.\n
+Question: Do visiting to asia and the lung cancer have a connection? Just answer Yes or No. No explanation.\n
+Question: Do visiting to asia and the bronchitis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do visiting to asia and the dyspnoea have a connection? Just answer Yes or No. No explanation.\n
+Question: Do visiting to asia and the x-ray have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the tuberculosis and visiting to asia have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the tuberculosis and the either have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the tuberculosis and the smoking have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the tuberculosis and the lung cancer have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the tuberculosis and the bronchitis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the tuberculosis and the dyspnoea have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the tuberculosis and the x-ray have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the either and visiting to asia have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the either and the tuberculosis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the either and the smoking have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the either and the lung cancer have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the either and the bronchitis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the either and the dyspnoea have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the either and the x-ray have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the smoking and visiting to asia have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the smoking and the tuberculosis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the smoking and the either have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the smoking and the lung cancer have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the smoking and the bronchitis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the smoking and the dyspnoea have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the smoking and the x-ray have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the lung cancer and visiting to asia have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the lung cancer and the tuberculosis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the lung cancer and the either have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the lung cancer and the smoking have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the lung cancer and the bronchitis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the lung cancer and the dyspnoea have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the lung cancer and the x-ray have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the bronchitis and visiting to asia have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the bronchitis and the tuberculosis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the bronchitis and the either have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the bronchitis and the smoking have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the bronchitis and the lung cancer have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the bronchitis and the dyspnoea have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the bronchitis and the x-ray have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the dyspnoea and visiting to asia have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the dyspnoea and the tuberculosis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the dyspnoea and the either have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the dyspnoea and the smoking have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the dyspnoea and the lung cancer have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the dyspnoea and the bronchitis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the dyspnoea and the x-ray have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the x-ray and visiting to asia have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the x-ray and the tuberculosis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the x-ray and the either have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the x-ray and the smoking have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the x-ray and the lung cancer have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the x-ray and the bronchitis have a connection? Just answer Yes or No. No explanation.\n
+Question: Do the x-ray and the dyspnoea have a connection? Just answer Yes or No. No explanation.\n

@@ -1,0 +1,280 @@
+Question: Based on the following background knowledge, Are visiting to asia and the tuberculosis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are visiting to asia and the either causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are visiting to asia and the smoking causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are visiting to asia and the lung cancer causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are visiting to asia and the bronchitis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are visiting to asia and the dyspnoea causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are visiting to asia and the x-ray causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the tuberculosis and visiting to asia causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the tuberculosis and either causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the tuberculosis and smoking causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the tuberculosis and lung cancer causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the tuberculosis and bronchitis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the tuberculosis and dyspnoea causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the tuberculosis and x-ray causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the either and visiting to asia causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the either and tuberculosis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the either and smoking causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the either and lung cancer causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the either and bronchitis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the either and dyspnoea causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the either and x-ray causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the smoking and visiting to asia causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the smoking and tuberculosis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the smoking and either causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the smoking and lung cancer causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the smoking and bronchitis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the smoking and dyspnoea causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the smoking and x-ray causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the lung cancer and visiting to asia causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the lung cancer and tuberculosis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the lung cancer and either causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the lung cancer and smoking causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the lung cancer and bronchitis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the lung cancer and dyspnoea causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the lung cancer and x-ray causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the bronchitis and visiting to asia causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the bronchitis and tuberculosis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the bronchitis and either causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the bronchitis and smoking causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the bronchitis and lung cancer causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the bronchitis and dyspnoea causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the bronchitis and x-ray causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the dyspnoea and visiting to asia causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the dyspnoea and tuberculosis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the dyspnoea and either causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the dyspnoea and smoking causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the dyspnoea and lung cancer causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the dyspnoea and bronchitis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the dyspnoea and x-ray causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the x-ray and visiting to asia causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the x-ray and tuberculosis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the x-ray and either causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the x-ray and smoking causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the x-ray and lung cancer causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the x-ray and bronchitis causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Are the x-ray and dyspnoea causally related? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between visiting to asia and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between visiting to asia and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between visiting to asia and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between visiting to asia and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between visiting to asia and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between visiting to asia and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between visiting to asia and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the tuberculosis and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the tuberculosis and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the tuberculosis and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the tuberculosis and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the tuberculosis and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the tuberculosis and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the tuberculosis and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the either and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the either and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the either and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the either and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the either and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the either and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the either and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the smoking and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the smoking and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the smoking and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the smoking and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the smoking and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the smoking and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the smoking and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the lung cancer and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the lung cancer and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the lung cancer and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the lung cancer and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the lung cancer and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the lung cancer and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the lung cancer and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the bronchitis and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the bronchitis and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the bronchitis and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the bronchitis and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the bronchitis and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the bronchitis and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the bronchitis and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the dyspnoea and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the dyspnoea and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the dyspnoea and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the dyspnoea and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the dyspnoea and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the dyspnoea and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the dyspnoea and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the x-ray and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the x-ray and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the x-ray and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the x-ray and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the x-ray and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the x-ray and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there a causal connection between the x-ray and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia cause the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia cause the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia cause the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia cause the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia cause the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia cause the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia cause the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis cause visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis cause the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis cause the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis cause the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis cause the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis cause the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis cause the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either cause visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either cause the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either cause the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either cause the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either cause the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either cause the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either cause the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking cause visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking cause the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking cause the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking cause the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking cause the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking cause the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking cause the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer cause visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer cause the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer cause the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer cause the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer cause the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer cause the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer cause the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis cause visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis cause the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis cause the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis cause the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis cause the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis cause the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis cause the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea cause visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea cause the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea cause the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea cause the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea cause the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea cause the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea cause the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray cause visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray cause the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray cause the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray cause the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray cause the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray cause the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray cause the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia influence the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia influence the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia influence the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia influence the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia influence the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia influence the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does visiting to asia influence the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis influence visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis influence the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis influence the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis influence the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis influence the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis influence the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the tuberculosis influence the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either influence visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either influence the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either influence the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either influence the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either influence the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either influence the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the either influence the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking influence visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking influence the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking influence the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking influence the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking influence the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking influence the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the smoking influence the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer influence visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer influence the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer influence the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer influence the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer influence the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer influence the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the lung cancer influence the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis influence visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis influence the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis influence the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis influence the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis influence the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis influence the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the bronchitis influence the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea influence visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea influence the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea influence the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea influence the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea influence the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea influence the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the dyspnoea influence the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray influence visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray influence the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray influence the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray influence the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray influence the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray influence the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Does the x-ray influence the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between visiting to asia and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between visiting to asia and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between visiting to asia and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between visiting to asia and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between visiting to asia and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between visiting to asia and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between visiting to asia and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the tuberculosis and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the tuberculosis and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the tuberculosis and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the tuberculosis and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the tuberculosis and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the tuberculosis and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the tuberculosis and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the either and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the either and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the either and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the either and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the either and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the either and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the either and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the smoking and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the smoking and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the smoking and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the smoking and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the smoking and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the smoking and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the smoking and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the lung cancer and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the lung cancer and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the lung cancer and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the lung cancer and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the lung cancer and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the lung cancer and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the lung cancer and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the bronchitis and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the bronchitis and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the bronchitis and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the bronchitis and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the bronchitis and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the bronchitis and the dyspnoea? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the bronchitis and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the dyspnoea and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the dyspnoea and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the dyspnoea and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the dyspnoea and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the dyspnoea and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the dyspnoea and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the dyspnoea and the x-ray? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the x-ray and visiting to asia? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the x-ray and the tuberculosis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the x-ray and the either? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the x-ray and the smoking? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the x-ray and the lung cancer? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the x-ray and the bronchitis? Just answer Yes or No.\n
+Question: Based on the following background knowledge, Is there causality between the x-ray and the dyspnoea? Just answer Yes or No.\n

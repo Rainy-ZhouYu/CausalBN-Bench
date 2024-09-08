@@ -1,0 +1,281 @@
+prompt
+Question: Are the asia and tub causally related? Just answer Yes or No. No explanations\n
+Question: Are the asia and either causally related? Just answer Yes or No. No explanations\n
+Question: Are the asia and smoke causally related? Just answer Yes or No. No explanations\n
+Question: Are the asia and lung causally related? Just answer Yes or No. No explanations\n
+Question: Are the asia and bronc causally related? Just answer Yes or No. No explanations\n
+Question: Are the asia and dysp causally related? Just answer Yes or No. No explanations\n
+Question: Are the asia and xray causally related? Just answer Yes or No. No explanations\n
+Question: Are the tub and asia causally related? Just answer Yes or No. No explanations\n
+Question: Are the tub and either causally related? Just answer Yes or No. No explanations\n
+Question: Are the tub and smoke causally related? Just answer Yes or No. No explanations\n
+Question: Are the tub and lung causally related? Just answer Yes or No. No explanations\n
+Question: Are the tub and bronc causally related? Just answer Yes or No. No explanations\n
+Question: Are the tub and dysp causally related? Just answer Yes or No. No explanations\n
+Question: Are the tub and xray causally related? Just answer Yes or No. No explanations\n
+Question: Are the either and asia causally related? Just answer Yes or No. No explanations\n
+Question: Are the either and tub causally related? Just answer Yes or No. No explanations\n
+Question: Are the either and smoke causally related? Just answer Yes or No. No explanations\n
+Question: Are the either and lung causally related? Just answer Yes or No. No explanations\n
+Question: Are the either and bronc causally related? Just answer Yes or No. No explanations\n
+Question: Are the either and dysp causally related? Just answer Yes or No. No explanations\n
+Question: Are the either and xray causally related? Just answer Yes or No. No explanations\n
+Question: Are the smoke and asia causally related? Just answer Yes or No. No explanations\n
+Question: Are the smoke and tub causally related? Just answer Yes or No. No explanations\n
+Question: Are the smoke and either causally related? Just answer Yes or No. No explanations\n
+Question: Are the smoke and lung causally related? Just answer Yes or No. No explanations\n
+Question: Are the smoke and bronc causally related? Just answer Yes or No. No explanations\n
+Question: Are the smoke and dysp causally related? Just answer Yes or No. No explanations\n
+Question: Are the smoke and xray causally related? Just answer Yes or No. No explanations\n
+Question: Are the lung and asia causally related? Just answer Yes or No. No explanations\n
+Question: Are the lung and tub causally related? Just answer Yes or No. No explanations\n
+Question: Are the lung and either causally related? Just answer Yes or No. No explanations\n
+Question: Are the lung and smoke causally related? Just answer Yes or No. No explanations\n
+Question: Are the lung and bronc causally related? Just answer Yes or No. No explanations\n
+Question: Are the lung and dysp causally related? Just answer Yes or No. No explanations\n
+Question: Are the lung and xray causally related? Just answer Yes or No. No explanations\n
+Question: Are the bronc and asia causally related? Just answer Yes or No. No explanations\n
+Question: Are the bronc and tub causally related? Just answer Yes or No. No explanations\n
+Question: Are the bronc and either causally related? Just answer Yes or No. No explanations\n
+Question: Are the bronc and smoke causally related? Just answer Yes or No. No explanations\n
+Question: Are the bronc and lung causally related? Just answer Yes or No. No explanations\n
+Question: Are the bronc and dysp causally related? Just answer Yes or No. No explanations\n
+Question: Are the bronc and xray causally related? Just answer Yes or No. No explanations\n
+Question: Are the dysp and asia causally related? Just answer Yes or No. No explanations\n
+Question: Are the dysp and tub causally related? Just answer Yes or No. No explanations\n
+Question: Are the dysp and either causally related? Just answer Yes or No. No explanations\n
+Question: Are the dysp and smoke causally related? Just answer Yes or No. No explanations\n
+Question: Are the dysp and lung causally related? Just answer Yes or No. No explanations\n
+Question: Are the dysp and bronc causally related? Just answer Yes or No. No explanations\n
+Question: Are the dysp and xray causally related? Just answer Yes or No. No explanations\n
+Question: Are the xray and asia causally related? Just answer Yes or No. No explanations\n
+Question: Are the xray and tub causally related? Just answer Yes or No. No explanations\n
+Question: Are the xray and either causally related? Just answer Yes or No. No explanations\n
+Question: Are the xray and smoke causally related? Just answer Yes or No. No explanations\n
+Question: Are the xray and lung causally related? Just answer Yes or No. No explanations\n
+Question: Are the xray and bronc causally related? Just answer Yes or No. No explanations\n
+Question: Are the xray and dysp causally related? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the asia and the tub? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the asia and the either? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the asia and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the asia and the lung? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the asia and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the asia and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the asia and the xray? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the tub and the asia? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the tub and the either? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the tub and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the tub and the lung? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the tub and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the tub and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the tub and the xray? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the either and the asia? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the either and the tub? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the either and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the either and the lung? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the either and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the either and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the either and the xray? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the smoke and the asia? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the smoke and the tub? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the smoke and the either? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the smoke and the lung? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the smoke and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the smoke and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the smoke and the xray? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the lung and the asia? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the lung and the tub? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the lung and the either? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the lung and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the lung and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the lung and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the lung and the xray? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the bronc and the asia? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the bronc and the tub? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the bronc and the either? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the bronc and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the bronc and the lung? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the bronc and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the bronc and the xray? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the dysp and the asia? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the dysp and the tub? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the dysp and the either? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the dysp and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the dysp and the lung? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the dysp and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the dysp and the xray? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the xray and the asia? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the xray and the tub? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the xray and the either? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the xray and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the xray and the lung? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the xray and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there a causal connection between the xray and the dysp? Just answer Yes or No. No explanations\n
+Question: Does the asia cause the tub? Just answer Yes or No. No explanations\n
+Question: Does the asia cause the either? Just answer Yes or No. No explanations\n
+Question: Does the asia cause the smoke? Just answer Yes or No. No explanations\n
+Question: Does the asia cause the lung? Just answer Yes or No. No explanations\n
+Question: Does the asia cause the bronc? Just answer Yes or No. No explanations\n
+Question: Does the asia cause the dysp? Just answer Yes or No. No explanations\n
+Question: Does the asia cause the xray? Just answer Yes or No. No explanations\n
+Question: Does the tub cause the asia? Just answer Yes or No. No explanations\n
+Question: Does the tub cause the either? Just answer Yes or No. No explanations\n
+Question: Does the tub cause the smoke? Just answer Yes or No. No explanations\n
+Question: Does the tub cause the lung? Just answer Yes or No. No explanations\n
+Question: Does the tub cause the bronc? Just answer Yes or No. No explanations\n
+Question: Does the tub cause the dysp? Just answer Yes or No. No explanations\n
+Question: Does the tub cause the xray? Just answer Yes or No. No explanations\n
+Question: Does the either cause the asia? Just answer Yes or No. No explanations\n
+Question: Does the either cause the tub? Just answer Yes or No. No explanations\n
+Question: Does the either cause the smoke? Just answer Yes or No. No explanations\n
+Question: Does the either cause the lung? Just answer Yes or No. No explanations\n
+Question: Does the either cause the bronc? Just answer Yes or No. No explanations\n
+Question: Does the either cause the dysp? Just answer Yes or No. No explanations\n
+Question: Does the either cause the xray? Just answer Yes or No. No explanations\n
+Question: Does the smoke cause the asia? Just answer Yes or No. No explanations\n
+Question: Does the smoke cause the tub? Just answer Yes or No. No explanations\n
+Question: Does the smoke cause the either? Just answer Yes or No. No explanations\n
+Question: Does the smoke cause the lung? Just answer Yes or No. No explanations\n
+Question: Does the smoke cause the bronc? Just answer Yes or No. No explanations\n
+Question: Does the smoke cause the dysp? Just answer Yes or No. No explanations\n
+Question: Does the smoke cause the xray? Just answer Yes or No. No explanations\n
+Question: Does the lung cause the asia? Just answer Yes or No. No explanations\n
+Question: Does the lung cause the tub? Just answer Yes or No. No explanations\n
+Question: Does the lung cause the either? Just answer Yes or No. No explanations\n
+Question: Does the lung cause the smoke? Just answer Yes or No. No explanations\n
+Question: Does the lung cause the bronc? Just answer Yes or No. No explanations\n
+Question: Does the lung cause the dysp? Just answer Yes or No. No explanations\n
+Question: Does the lung cause the xray? Just answer Yes or No. No explanations\n
+Question: Does the bronc cause the asia? Just answer Yes or No. No explanations\n
+Question: Does the bronc cause the tub? Just answer Yes or No. No explanations\n
+Question: Does the bronc cause the either? Just answer Yes or No. No explanations\n
+Question: Does the bronc cause the smoke? Just answer Yes or No. No explanations\n
+Question: Does the bronc cause the lung? Just answer Yes or No. No explanations\n
+Question: Does the bronc cause the dysp? Just answer Yes or No. No explanations\n
+Question: Does the bronc cause the xray? Just answer Yes or No. No explanations\n
+Question: Does the dysp cause the asia? Just answer Yes or No. No explanations\n
+Question: Does the dysp cause the tub? Just answer Yes or No. No explanations\n
+Question: Does the dysp cause the either? Just answer Yes or No. No explanations\n
+Question: Does the dysp cause the smoke? Just answer Yes or No. No explanations\n
+Question: Does the dysp cause the lung? Just answer Yes or No. No explanations\n
+Question: Does the dysp cause the bronc? Just answer Yes or No. No explanations\n
+Question: Does the dysp cause the xray? Just answer Yes or No. No explanations\n
+Question: Does the xray cause the asia? Just answer Yes or No. No explanations\n
+Question: Does the xray cause the tub? Just answer Yes or No. No explanations\n
+Question: Does the xray cause the either? Just answer Yes or No. No explanations\n
+Question: Does the xray cause the smoke? Just answer Yes or No. No explanations\n
+Question: Does the xray cause the lung? Just answer Yes or No. No explanations\n
+Question: Does the xray cause the bronc? Just answer Yes or No. No explanations\n
+Question: Does the xray cause the dysp? Just answer Yes or No. No explanations\n
+Question: Does the asia influence the tub? Just answer Yes or No. No explanations\n
+Question: Does the asia influence the either? Just answer Yes or No. No explanations\n
+Question: Does the asia influence the smoke? Just answer Yes or No. No explanations\n
+Question: Does the asia influence the lung? Just answer Yes or No. No explanations\n
+Question: Does the asia influence the bronc? Just answer Yes or No. No explanations\n
+Question: Does the asia influence the dysp? Just answer Yes or No. No explanations\n
+Question: Does the asia influence the xray? Just answer Yes or No. No explanations\n
+Question: Does the tub influence the asia? Just answer Yes or No. No explanations\n
+Question: Does the tub influence the either? Just answer Yes or No. No explanations\n
+Question: Does the tub influence the smoke? Just answer Yes or No. No explanations\n
+Question: Does the tub influence the lung? Just answer Yes or No. No explanations\n
+Question: Does the tub influence the bronc? Just answer Yes or No. No explanations\n
+Question: Does the tub influence the dysp? Just answer Yes or No. No explanations\n
+Question: Does the tub influence the xray? Just answer Yes or No. No explanations\n
+Question: Does the either influence the asia? Just answer Yes or No. No explanations\n
+Question: Does the either influence the tub? Just answer Yes or No. No explanations\n
+Question: Does the either influence the smoke? Just answer Yes or No. No explanations\n
+Question: Does the either influence the lung? Just answer Yes or No. No explanations\n
+Question: Does the either influence the bronc? Just answer Yes or No. No explanations\n
+Question: Does the either influence the dysp? Just answer Yes or No. No explanations\n
+Question: Does the either influence the xray? Just answer Yes or No. No explanations\n
+Question: Does the smoke influence the asia? Just answer Yes or No. No explanations\n
+Question: Does the smoke influence the tub? Just answer Yes or No. No explanations\n
+Question: Does the smoke influence the either? Just answer Yes or No. No explanations\n
+Question: Does the smoke influence the lung? Just answer Yes or No. No explanations\n
+Question: Does the smoke influence the bronc? Just answer Yes or No. No explanations\n
+Question: Does the smoke influence the dysp? Just answer Yes or No. No explanations\n
+Question: Does the smoke influence the xray? Just answer Yes or No. No explanations\n
+Question: Does the lung influence the asia? Just answer Yes or No. No explanations\n
+Question: Does the lung influence the tub? Just answer Yes or No. No explanations\n
+Question: Does the lung influence the either? Just answer Yes or No. No explanations\n
+Question: Does the lung influence the smoke? Just answer Yes or No. No explanations\n
+Question: Does the lung influence the bronc? Just answer Yes or No. No explanations\n
+Question: Does the lung influence the dysp? Just answer Yes or No. No explanations\n
+Question: Does the lung influence the xray? Just answer Yes or No. No explanations\n
+Question: Does the bronc influence the asia? Just answer Yes or No. No explanations\n
+Question: Does the bronc influence the tub? Just answer Yes or No. No explanations\n
+Question: Does the bronc influence the either? Just answer Yes or No. No explanations\n
+Question: Does the bronc influence the smoke? Just answer Yes or No. No explanations\n
+Question: Does the bronc influence the lung? Just answer Yes or No. No explanations\n
+Question: Does the bronc influence the dysp? Just answer Yes or No. No explanations\n
+Question: Does the bronc influence the xray? Just answer Yes or No. No explanations\n
+Question: Does the dysp influence the asia? Just answer Yes or No. No explanations\n
+Question: Does the dysp influence the tub? Just answer Yes or No. No explanations\n
+Question: Does the dysp influence the either? Just answer Yes or No. No explanations\n
+Question: Does the dysp influence the smoke? Just answer Yes or No. No explanations\n
+Question: Does the dysp influence the lung? Just answer Yes or No. No explanations\n
+Question: Does the dysp influence the bronc? Just answer Yes or No. No explanations\n
+Question: Does the dysp influence the xray? Just answer Yes or No. No explanations\n
+Question: Does the xray influence the asia? Just answer Yes or No. No explanations\n
+Question: Does the xray influence the tub? Just answer Yes or No. No explanations\n
+Question: Does the xray influence the either? Just answer Yes or No. No explanations\n
+Question: Does the xray influence the smoke? Just answer Yes or No. No explanations\n
+Question: Does the xray influence the lung? Just answer Yes or No. No explanations\n
+Question: Does the xray influence the bronc? Just answer Yes or No. No explanations\n
+Question: Does the xray influence the dysp? Just answer Yes or No. No explanations\n
+Question: Is there causality between the asia and the tub? Just answer Yes or No. No explanations\n
+Question: Is there causality between the asia and the either? Just answer Yes or No. No explanations\n
+Question: Is there causality between the asia and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there causality between the asia and the lung? Just answer Yes or No. No explanations\n
+Question: Is there causality between the asia and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there causality between the asia and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there causality between the asia and the xray? Just answer Yes or No. No explanations\n
+Question: Is there causality between the tub and the asia? Just answer Yes or No. No explanations\n
+Question: Is there causality between the tub and the either? Just answer Yes or No. No explanations\n
+Question: Is there causality between the tub and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there causality between the tub and the lung? Just answer Yes or No. No explanations\n
+Question: Is there causality between the tub and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there causality between the tub and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there causality between the tub and the xray? Just answer Yes or No. No explanations\n
+Question: Is there causality between the either and the asia? Just answer Yes or No. No explanations\n
+Question: Is there causality between the either and the tub? Just answer Yes or No. No explanations\n
+Question: Is there causality between the either and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there causality between the either and the lung? Just answer Yes or No. No explanations\n
+Question: Is there causality between the either and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there causality between the either and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there causality between the either and the xray? Just answer Yes or No. No explanations\n
+Question: Is there causality between the smoke and the asia? Just answer Yes or No. No explanations\n
+Question: Is there causality between the smoke and the tub? Just answer Yes or No. No explanations\n
+Question: Is there causality between the smoke and the either? Just answer Yes or No. No explanations\n
+Question: Is there causality between the smoke and the lung? Just answer Yes or No. No explanations\n
+Question: Is there causality between the smoke and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there causality between the smoke and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there causality between the smoke and the xray? Just answer Yes or No. No explanations\n
+Question: Is there causality between the lung and the asia? Just answer Yes or No. No explanations\n
+Question: Is there causality between the lung and the tub? Just answer Yes or No. No explanations\n
+Question: Is there causality between the lung and the either? Just answer Yes or No. No explanations\n
+Question: Is there causality between the lung and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there causality between the lung and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there causality between the lung and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there causality between the lung and the xray? Just answer Yes or No. No explanations\n
+Question: Is there causality between the bronc and the asia? Just answer Yes or No. No explanations\n
+Question: Is there causality between the bronc and the tub? Just answer Yes or No. No explanations\n
+Question: Is there causality between the bronc and the either? Just answer Yes or No. No explanations\n
+Question: Is there causality between the bronc and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there causality between the bronc and the lung? Just answer Yes or No. No explanations\n
+Question: Is there causality between the bronc and the dysp? Just answer Yes or No. No explanations\n
+Question: Is there causality between the bronc and the xray? Just answer Yes or No. No explanations\n
+Question: Is there causality between the dysp and the asia? Just answer Yes or No. No explanations\n
+Question: Is there causality between the dysp and the tub? Just answer Yes or No. No explanations\n
+Question: Is there causality between the dysp and the either? Just answer Yes or No. No explanations\n
+Question: Is there causality between the dysp and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there causality between the dysp and the lung? Just answer Yes or No. No explanations\n
+Question: Is there causality between the dysp and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there causality between the dysp and the xray? Just answer Yes or No. No explanations\n
+Question: Is there causality between the xray and the asia? Just answer Yes or No. No explanations\n
+Question: Is there causality between the xray and the tub? Just answer Yes or No. No explanations\n
+Question: Is there causality between the xray and the either? Just answer Yes or No. No explanations\n
+Question: Is there causality between the xray and the smoke? Just answer Yes or No. No explanations\n
+Question: Is there causality between the xray and the lung? Just answer Yes or No. No explanations\n
+Question: Is there causality between the xray and the bronc? Just answer Yes or No. No explanations\n
+Question: Is there causality between the xray and the dysp? Just answer Yes or No. No explanations\n
