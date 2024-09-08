@@ -61,7 +61,7 @@ def main(locationLlamaHF,outputFileName,inputFileName):
 if __name__ == '__main__':
 
     models = ["Internlm20b"]
-    input_files = [f"generate_question/question/questions_{region}.csv" for region in
+    input_files = [f"questions_{region}.csv" for region in
                    ["asia", "cancer", "earthquake", "sachs", "survey", "alarm", "barley", "child",
                     "insurance", "mildew", "water", "hailfinder", "hepar2", "win95pt"]]
 
@@ -69,6 +69,6 @@ if __name__ == '__main__':
     for model in models:
         for input_file in input_files:
             locationLlamaHF = f"{model}"
-            outputFileName = f"Ranking/ranking_{model}_{input_file.split('/')[-1].split('.')[0]}.csv"
+            outputFileName = f"ranking_{model}_{input_file.split('/')[-1].split('.')[0]}.csv"
             main(locationLlamaHF, outputFileName, input_file)
             print(f"{model}-{input_file}-completed")
