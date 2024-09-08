@@ -1,0 +1,157 @@
+Relationship,Number
+asia and tub are related,1
+asia and smoke are not conditionally related under tub,0
+asia and smoke are not conditionally related under lung,0
+asia and smoke are not conditionally related under bronc,0
+asia and smoke are conditionally related under either,1
+asia and smoke are conditionally related under xray,1
+asia and smoke are conditionally related under dysp,1
+asia and lung are not conditionally related under tub,0
+asia and lung are not conditionally related under smoke,0
+asia and lung are not conditionally related under bronc,0
+asia and lung are conditionally related under either,1
+asia and lung are conditionally related under xray,1
+asia and lung are conditionally related under dysp,1
+asia and bronc are not conditionally related under tub,0
+asia and bronc are not conditionally related under smoke,0
+asia and bronc are not conditionally related under lung,0
+asia and bronc are not conditionally related under either,0
+asia and bronc are not conditionally related under xray,0
+asia and bronc are conditionally related under dysp,1
+asia and either are related,1
+asia and xray are related,1
+asia and dysp are related,1
+tub and asia are related,1
+tub and smoke are not conditionally related under asia,0
+tub and smoke are not conditionally related under lung,0
+tub and smoke are not conditionally related under bronc,0
+tub and smoke are conditionally related under either,1
+tub and smoke are conditionally related under xray,1
+tub and smoke are conditionally related under dysp,1
+tub and lung are not conditionally related under asia,0
+tub and lung are not conditionally related under smoke,0
+tub and lung are not conditionally related under bronc,0
+tub and lung are conditionally related under either,1
+tub and lung are conditionally related under xray,1
+tub and lung are conditionally related under dysp,1
+tub and bronc are not conditionally related under asia,0
+tub and bronc are not conditionally related under smoke,0
+tub and bronc are not conditionally related under lung,0
+tub and bronc are not conditionally related under either,0
+tub and bronc are not conditionally related under xray,0
+tub and bronc are conditionally related under dysp,1
+tub and either are related,1
+tub and xray are related,1
+tub and dysp are related,1
+smoke and asia are not conditionally related under tub,0
+smoke and asia are not conditionally related under lung,0
+smoke and asia are not conditionally related under bronc,0
+smoke and asia are conditionally related under either,1
+smoke and asia are conditionally related under xray,1
+smoke and asia are conditionally related under dysp,1
+smoke and tub are not conditionally related under asia,0
+smoke and tub are not conditionally related under lung,0
+smoke and tub are not conditionally related under bronc,0
+smoke and tub are conditionally related under either,1
+smoke and tub are conditionally related under xray,1
+smoke and tub are conditionally related under dysp,1
+smoke and lung are related,1
+smoke and bronc are related,1
+smoke and either are related,1
+smoke and xray are related,1
+smoke and dysp are related,1
+lung and asia are not conditionally related under tub,0
+lung and asia are not conditionally related under smoke,0
+lung and asia are not conditionally related under bronc,0
+lung and asia are conditionally related under either,1
+lung and asia are conditionally related under xray,1
+lung and asia are conditionally related under dysp,1
+lung and tub are not conditionally related under asia,0
+lung and tub are not conditionally related under smoke,0
+lung and tub are not conditionally related under bronc,0
+lung and tub are conditionally related under either,1
+lung and tub are conditionally related under xray,1
+lung and tub are conditionally related under dysp,1
+lung and smoke are related,1
+lung and bronc are not conditionally related under asia,0
+lung and bronc are not conditionally related under tub,0
+lung and bronc are conditionally related under smoke,1
+lung and bronc are not conditionally related under either,0
+lung and bronc are not conditionally related under xray,0
+lung and bronc are conditionally related under dysp,1
+lung and either are related,1
+lung and xray are related,1
+lung and dysp are related,1
+bronc and asia are not conditionally related under tub,0
+bronc and asia are not conditionally related under smoke,0
+bronc and asia are not conditionally related under lung,0
+bronc and asia are not conditionally related under either,0
+bronc and asia are not conditionally related under xray,0
+bronc and asia are conditionally related under dysp,1
+bronc and tub are not conditionally related under asia,0
+bronc and tub are not conditionally related under smoke,0
+bronc and tub are not conditionally related under lung,0
+bronc and tub are not conditionally related under either,0
+bronc and tub are not conditionally related under xray,0
+bronc and tub are conditionally related under dysp,1
+bronc and smoke are related,1
+bronc and lung are not conditionally related under asia,0
+bronc and lung are not conditionally related under tub,0
+bronc and lung are conditionally related under smoke,1
+bronc and lung are not conditionally related under either,0
+bronc and lung are not conditionally related under xray,0
+bronc and lung are conditionally related under dysp,1
+bronc and either are not conditionally related under asia,0
+bronc and either are not conditionally related under tub,0
+bronc and either are conditionally related under smoke,1
+bronc and either are not conditionally related under lung,0
+bronc and either are not conditionally related under xray,0
+bronc and either are conditionally related under dysp,1
+bronc and xray are not conditionally related under asia,0
+bronc and xray are not conditionally related under tub,0
+bronc and xray are conditionally related under smoke,1
+bronc and xray are not conditionally related under lung,0
+bronc and xray are not conditionally related under either,0
+bronc and xray are not conditionally related under dysp,0
+bronc and dysp are related,1
+either and asia are related,1
+either and tub are related,1
+either and smoke are related,1
+either and lung are related,1
+either and bronc are not conditionally related under asia,0
+either and bronc are not conditionally related under tub,0
+either and bronc are conditionally related under smoke,1
+either and bronc are not conditionally related under lung,0
+either and bronc are not conditionally related under xray,0
+either and bronc are conditionally related under dysp,1
+either and xray are related,1
+either and dysp are related,1
+xray and asia are related,1
+xray and tub are related,1
+xray and smoke are related,1
+xray and lung are related,1
+xray and bronc are not conditionally related under asia,0
+xray and bronc are not conditionally related under tub,0
+xray and bronc are conditionally related under smoke,1
+xray and bronc are not conditionally related under lung,0
+xray and bronc are not conditionally related under either,0
+xray and bronc are not conditionally related under dysp,0
+xray and either are related,1
+xray and dysp are conditionally related under asia,1
+xray and dysp are conditionally related under tub,1
+xray and dysp are conditionally related under smoke,1
+xray and dysp are conditionally related under lung,1
+xray and dysp are not conditionally related under bronc,0
+xray and dysp are conditionally related under either,1
+dysp and asia are related,1
+dysp and tub are related,1
+dysp and smoke are related,1
+dysp and lung are related,1
+dysp and bronc are related,1
+dysp and either are related,1
+dysp and xray are conditionally related under asia,1
+dysp and xray are conditionally related under tub,1
+dysp and xray are conditionally related under smoke,1
+dysp and xray are conditionally related under lung,1
+dysp and xray are not conditionally related under bronc,0
+dysp and xray are conditionally related under either,1
