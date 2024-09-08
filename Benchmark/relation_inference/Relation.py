@@ -58,7 +58,7 @@ def hf_main(locationLlamaHF, outputFileName, inputFileName):
 
 # 第二个代码 GPT 模型的 main 函数
 def gpt_main():
-    openai.api_key = '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'
+    openai.api_key = 'your_key'
     questions_df = pd.read_csv('generate_question/question/questions_asia_v3.csv')
     questions = questions_df['prompt'].tolist()
     answers = []
