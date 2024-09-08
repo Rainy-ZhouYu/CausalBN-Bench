@@ -82,7 +82,7 @@ def gpt_main():
             answers.append("Error generating response")
 
     qa_pairs = pd.DataFrame({'Question': questions, 'Answer': answers})
-    qa_pairs.to_csv('Response/asia_gpt_4.csv', index=False)
+    qa_pairs.to_csv('gpt_4.csv', index=False)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -91,11 +91,11 @@ if __name__ == '__main__':
 
     if args.model_type == 'Huggingface':
         models = ["Alpaca-7b"]
-        input_files = ['/home/yzhou/CausalBenchmark/questions_alarm.csv']
+        input_files = ['questions_asia.csv']
         for model in models:
             for input_file in input_files:
-                locationLlamaHF = f"/home/yzhou/CausalBenchmark/{model}"
-                outputFileName = f"/home/yzhou/CausalBenchmark/Result/Task_Original/{model}_{input_file.split('/')[-1].split('.')[0]}.csv"
+                locationLlamaHF = f"{model}"
+                outputFileName = f"{model}_{input_file.split('/')[-1].split('.')[0]}.csv"
                 hf_main(locationLlamaHF, outputFileName, input_file)
     elif args.model_type == 'GPT':
         gpt_main()
