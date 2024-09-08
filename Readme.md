@@ -7,7 +7,7 @@
 Implementation for paper CausalBench: A Comprehensive Benchmark for Causal Learning Capability of LLMs
 
 
-<img src="figs/framework.png" style="width: auto; height: auto;" alt="framework"> 
+<img src="figs/Framework.png" style="width: auto; height: auto;" alt="framework"> 
 
 
 
