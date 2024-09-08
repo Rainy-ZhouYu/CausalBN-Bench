@@ -47,11 +47,11 @@ input_datasets = ["barley", "child",
 for model in models:
     Answer = []
     for input_dataset in input_datasets:
-        outputFileName = f'Rank_Process/{model}_{input_dataset}.csv'
-        questions_df = pd.read_csv(f'Ranking/ranking_{input_dataset}.csv')
+        outputFileName = f'{model}_{input_dataset}.csv'
+        questions_df = pd.read_csv(f'ranking_{input_dataset}.csv')
         questions = questions_df['prompt'].tolist()
 
-        questions = questions[87:]
+        questions = questions
         Answer = answer_for_gpt(questions, model, outputFileName)
 
 
