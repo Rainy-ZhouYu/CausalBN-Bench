@@ -13,7 +13,7 @@ def answer_for_gpt(questions, model, outputFileName):
                 {"role": "system", "content": "You are a highly intelligent question-answering bot with profound knowledge of causal inference and causal learning."},
                 {"role": "user", "content": question}
             ],
-            max_tokens=50
+            max_tokens=100
         )
         answer = response.choices[0].message['content'].strip()
         answers.append(answer)
@@ -26,7 +26,6 @@ def answer_for_gpt(questions, model, outputFileName):
         #     file.write(answer + '\n')
         with open(outputFileName, mode='a', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
-            # 写入标题
             #writer.writerow(['order', 'Question', 'Answer'])
             writer.writerow([i, question, answer])
 
