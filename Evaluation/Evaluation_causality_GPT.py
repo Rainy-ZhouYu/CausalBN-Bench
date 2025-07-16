@@ -48,7 +48,7 @@ def add_zero_column(matrix):
 
 
 def main(model, dataset, res, input_file_path):
-    labels = pd.read_csv(f'D:\BaiduNetdiskWorkspace\周黑娃的文件夹\Causality\Causal+LLM\corr2cause-main\code/generate_label/label/{dataset}.csv')  # 标签结果
+    labels = pd.read_csv(f'D:\BaiduNetdiskWorkspace/generate_label/label/{dataset}.csv')  
     labels = labels.values
     with open(input_file_path, 'r', encoding='utf-8', errors='ignore') as f:
         content = f.read()
@@ -122,17 +122,7 @@ def main(model, dataset, res, input_file_path):
         SHD.append(shd)
         SID.append(sid)
         Sparsity.append(sparsity)
-    # f1_mean = np.mean(F1)
-    # f1_variance = np.var(F1)
-    #
-    # accuracy_mean = np.mean(ACC)
-    # accuracy_variance = np.var(ACC)
-    # SHD_mean = np.mean(SHD)
-    # SHD_variance = np.var(SHD)
-    # SID_mean = np.mean(SID)
-    # SID_variance = np.var(SID)
-    # Sparsity_mean = np.mean(Sparsity)
-    # Sparsity_variance = np.var(Sparsity)
+
     print("f1_mean:", F1)
     print("F1 分数均值:", F1)
     print("accuracy_mean:", ACC)
