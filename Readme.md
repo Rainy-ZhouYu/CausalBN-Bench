@@ -1,10 +1,10 @@
-# Repository of CasualBench
+# Repository of CasualBN-Bench
 
 
 
 ### Overview
 
-Implementation for paper CausalBench: A Comprehensive Benchmark for Causal Learning Capability of LLMs
+Implementation for paper CasualBN-Bench: A Comprehensive Benchmark for Causal Learning Capability of LLMs
 
 
 <img src="figs/Framework.png" style="width: auto; height: auto;" alt="framework"> 
@@ -48,7 +48,7 @@ This repository contains the implementation for benchmark construction and evalu
 
 ### Citations
 
-Please cite the paper and star the repo if you use CausalBecnh and find it helpful. Feel free to contact zy-yu.zhou@connect.polyu.hk if you have any questions.
+Please cite the paper and star the repo if you use CasualBN-Bench and find it helpful. Feel free to contact zy-yu.zhou@connect.polyu.hk if you have any questions.
 
 ```latex
 @misc{zhou2024causalbench,
@@ -60,3 +60,4 @@ Please cite the paper and star the repo if you use CausalBecnh and find it helpf
       primaryClass={cs.SE}
 }
 ```
+
