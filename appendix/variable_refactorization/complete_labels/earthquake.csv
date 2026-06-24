@@ -1,0 +1,6 @@
+,Burglary,Alarm,Earthquake,JohnCalls,MaryCalls
+Burglary,0,1,0,0,0
+Alarm,0,0,0,1,1
+Earthquake,0,1,0,0,0
+JohnCalls,0,0,0,0,0
+MaryCalls,0,0,0,0,0

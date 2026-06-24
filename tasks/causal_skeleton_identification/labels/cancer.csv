@@ -1,0 +1,29 @@
+Relationship,Number
+Pollution and Smoker are conditionally related under Cancer,1
+Pollution and Smoker are conditionally related under Xray,1
+Pollution and Smoker are conditionally related under Dyspnoea,1
+Pollution and Cancer are related,1
+Pollution and Xray are related,1
+Pollution and Dyspnoea are related,1
+Smoker and Pollution are conditionally related under Cancer,1
+Smoker and Pollution are conditionally related under Xray,1
+Smoker and Pollution are conditionally related under Dyspnoea,1
+Smoker and Cancer are related,1
+Smoker and Xray are related,1
+Smoker and Dyspnoea are related,1
+Cancer and Pollution are related,1
+Cancer and Smoker are related,1
+Cancer and Xray are related,1
+Cancer and Dyspnoea are related,1
+Xray and Pollution are related,1
+Xray and Smoker are related,1
+Xray and Cancer are related,1
+Xray and Dyspnoea are conditionally related under Pollution,1
+Xray and Dyspnoea are conditionally related under Smoker,1
+Xray and Dyspnoea are conditionally related under Cancer,1
+Dyspnoea and Pollution are related,1
+Dyspnoea and Smoker are related,1
+Dyspnoea and Cancer are related,1
+Dyspnoea and Xray are conditionally related under Pollution,1
+Dyspnoea and Xray are conditionally related under Smoker,1
+Dyspnoea and Xray are conditionally related under Cancer,1

@@ -1,0 +1,29 @@
+Relationship,Number
+Burglary and Earthquake are conditionally related under Alarm,1
+Burglary and Earthquake are conditionally related under JohnCalls,1
+Burglary and Earthquake are conditionally related under MaryCalls,1
+Burglary and Alarm are related,1
+Burglary and JohnCalls are related,1
+Burglary and MaryCalls are related,1
+Earthquake and Burglary are conditionally related under Alarm,1
+Earthquake and Burglary are conditionally related under JohnCalls,1
+Earthquake and Burglary are conditionally related under MaryCalls,1
+Earthquake and Alarm are related,1
+Earthquake and JohnCalls are related,1
+Earthquake and MaryCalls are related,1
+Alarm and Burglary are related,1
+Alarm and Earthquake are related,1
+Alarm and JohnCalls are related,1
+Alarm and MaryCalls are related,1
+JohnCalls and Burglary are related,1
+JohnCalls and Earthquake are related,1
+JohnCalls and Alarm are related,1
+JohnCalls and MaryCalls are conditionally related under Burglary,1
+JohnCalls and MaryCalls are conditionally related under Earthquake,1
+JohnCalls and MaryCalls are conditionally related under Alarm,1
+MaryCalls and Burglary are related,1
+MaryCalls and Earthquake are related,1
+MaryCalls and Alarm are related,1
+MaryCalls and JohnCalls are conditionally related under Burglary,1
+MaryCalls and JohnCalls are conditionally related under Earthquake,1
+MaryCalls and JohnCalls are conditionally related under Alarm,1

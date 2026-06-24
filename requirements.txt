@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+torch
+transformers
+datasets
+openai
+requests
+tqdm
+networkx
+pgmpy
+bnlearn
+wikipedia-api
+torchmetrics
+huggingface_hub

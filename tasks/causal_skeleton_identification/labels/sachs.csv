@@ -1,0 +1,639 @@
+Relationship,Number
+Akt and Erk are related,1
+Akt and Jnk are not conditionally related under Erk,0
+Akt and Jnk are not conditionally related under Mek,0
+Akt and Jnk are not conditionally related under P38,0
+Akt and Jnk are not conditionally related under PIP2,0
+Akt and Jnk are not conditionally related under PIP3,0
+Akt and Jnk are conditionally related under PKA,1
+Akt and Jnk are conditionally related under PKC,1
+Akt and Jnk are not conditionally related under Plcg,0
+Akt and Jnk are not conditionally related under Raf,0
+Akt and Mek are related,1
+Akt and P38 are not conditionally related under Erk,0
+Akt and P38 are not conditionally related under Jnk,0
+Akt and P38 are not conditionally related under Mek,0
+Akt and P38 are not conditionally related under PIP2,0
+Akt and P38 are not conditionally related under PIP3,0
+Akt and P38 are conditionally related under PKA,1
+Akt and P38 are conditionally related under PKC,1
+Akt and P38 are not conditionally related under Plcg,0
+Akt and P38 are not conditionally related under Raf,0
+Akt and PIP2 are not conditionally related under Erk,0
+Akt and PIP2 are not conditionally related under Jnk,0
+Akt and PIP2 are not conditionally related under Mek,0
+Akt and PIP2 are not conditionally related under P38,0
+Akt and PIP2 are not conditionally related under PIP3,0
+Akt and PIP2 are not conditionally related under PKA,0
+Akt and PIP2 are not conditionally related under PKC,0
+Akt and PIP2 are not conditionally related under Plcg,0
+Akt and PIP2 are not conditionally related under Raf,0
+Akt and PIP3 are not conditionally related under Erk,0
+Akt and PIP3 are not conditionally related under Jnk,0
+Akt and PIP3 are not conditionally related under Mek,0
+Akt and PIP3 are not conditionally related under P38,0
+Akt and PIP3 are not conditionally related under PIP2,0
+Akt and PIP3 are not conditionally related under PKA,0
+Akt and PIP3 are not conditionally related under PKC,0
+Akt and PIP3 are not conditionally related under Plcg,0
+Akt and PIP3 are not conditionally related under Raf,0
+Akt and PKA are related,1
+Akt and PKC are related,1
+Akt and Plcg are not conditionally related under Erk,0
+Akt and Plcg are not conditionally related under Jnk,0
+Akt and Plcg are not conditionally related under Mek,0
+Akt and Plcg are not conditionally related under P38,0
+Akt and Plcg are not conditionally related under PIP2,0
+Akt and Plcg are not conditionally related under PIP3,0
+Akt and Plcg are not conditionally related under PKA,0
+Akt and Plcg are not conditionally related under PKC,0
+Akt and Plcg are not conditionally related under Raf,0
+Akt and Raf are related,1
+Erk and Akt are related,1
+Erk and Jnk are not conditionally related under Akt,0
+Erk and Jnk are not conditionally related under Mek,0
+Erk and Jnk are not conditionally related under P38,0
+Erk and Jnk are not conditionally related under PIP2,0
+Erk and Jnk are not conditionally related under PIP3,0
+Erk and Jnk are conditionally related under PKA,1
+Erk and Jnk are conditionally related under PKC,1
+Erk and Jnk are not conditionally related under Plcg,0
+Erk and Jnk are not conditionally related under Raf,0
+Erk and Mek are related,1
+Erk and P38 are not conditionally related under Akt,0
+Erk and P38 are not conditionally related under Jnk,0
+Erk and P38 are not conditionally related under Mek,0
+Erk and P38 are not conditionally related under PIP2,0
+Erk and P38 are not conditionally related under PIP3,0
+Erk and P38 are conditionally related under PKA,1
+Erk and P38 are conditionally related under PKC,1
+Erk and P38 are not conditionally related under Plcg,0
+Erk and P38 are not conditionally related under Raf,0
+Erk and PIP2 are not conditionally related under Akt,0
+Erk and PIP2 are not conditionally related under Jnk,0
+Erk and PIP2 are not conditionally related under Mek,0
+Erk and PIP2 are not conditionally related under P38,0
+Erk and PIP2 are not conditionally related under PIP3,0
+Erk and PIP2 are not conditionally related under PKA,0
+Erk and PIP2 are not conditionally related under PKC,0
+Erk and PIP2 are not conditionally related under Plcg,0
+Erk and PIP2 are not conditionally related under Raf,0
+Erk and PIP3 are not conditionally related under Akt,0
+Erk and PIP3 are not conditionally related under Jnk,0
+Erk and PIP3 are not conditionally related under Mek,0
+Erk and PIP3 are not conditionally related under P38,0
+Erk and PIP3 are not conditionally related under PIP2,0
+Erk and PIP3 are not conditionally related under PKA,0
+Erk and PIP3 are not conditionally related under PKC,0
+Erk and PIP3 are not conditionally related under Plcg,0
+Erk and PIP3 are not conditionally related under Raf,0
+Erk and PKA are related,1
+Erk and PKC are related,1
+Erk and Plcg are not conditionally related under Akt,0
+Erk and Plcg are not conditionally related under Jnk,0
+Erk and Plcg are not conditionally related under Mek,0
+Erk and Plcg are not conditionally related under P38,0
+Erk and Plcg are not conditionally related under PIP2,0
+Erk and Plcg are not conditionally related under PIP3,0
+Erk and Plcg are not conditionally related under PKA,0
+Erk and Plcg are not conditionally related under PKC,0
+Erk and Plcg are not conditionally related under Raf,0
+Erk and Raf are related,1
+Jnk and Akt are not conditionally related under Erk,0
+Jnk and Akt are not conditionally related under Mek,0
+Jnk and Akt are not conditionally related under P38,0
+Jnk and Akt are not conditionally related under PIP2,0
+Jnk and Akt are not conditionally related under PIP3,0
+Jnk and Akt are conditionally related under PKA,1
+Jnk and Akt are conditionally related under PKC,1
+Jnk and Akt are not conditionally related under Plcg,0
+Jnk and Akt are not conditionally related under Raf,0
+Jnk and Erk are not conditionally related under Akt,0
+Jnk and Erk are not conditionally related under Mek,0
+Jnk and Erk are not conditionally related under P38,0
+Jnk and Erk are not conditionally related under PIP2,0
+Jnk and Erk are not conditionally related under PIP3,0
+Jnk and Erk are conditionally related under PKA,1
+Jnk and Erk are conditionally related under PKC,1
+Jnk and Erk are not conditionally related under Plcg,0
+Jnk and Erk are not conditionally related under Raf,0
+Jnk and Mek are not conditionally related under Akt,0
+Jnk and Mek are not conditionally related under Erk,0
+Jnk and Mek are not conditionally related under P38,0
+Jnk and Mek are not conditionally related under PIP2,0
+Jnk and Mek are not conditionally related under PIP3,0
+Jnk and Mek are conditionally related under PKA,1
+Jnk and Mek are conditionally related under PKC,1
+Jnk and Mek are not conditionally related under Plcg,0
+Jnk and Mek are not conditionally related under Raf,0
+Jnk and P38 are not conditionally related under Akt,0
+Jnk and P38 are not conditionally related under Erk,0
+Jnk and P38 are not conditionally related under Mek,0
+Jnk and P38 are not conditionally related under PIP2,0
+Jnk and P38 are not conditionally related under PIP3,0
+Jnk and P38 are conditionally related under PKA,1
+Jnk and P38 are conditionally related under PKC,1
+Jnk and P38 are not conditionally related under Plcg,0
+Jnk and P38 are not conditionally related under Raf,0
+Jnk and PIP2 are not conditionally related under Akt,0
+Jnk and PIP2 are not conditionally related under Erk,0
+Jnk and PIP2 are not conditionally related under Mek,0
+Jnk and PIP2 are not conditionally related under P38,0
+Jnk and PIP2 are not conditionally related under PIP3,0
+Jnk and PIP2 are not conditionally related under PKA,0
+Jnk and PIP2 are not conditionally related under PKC,0
+Jnk and PIP2 are not conditionally related under Plcg,0
+Jnk and PIP2 are not conditionally related under Raf,0
+Jnk and PIP3 are not conditionally related under Akt,0
+Jnk and PIP3 are not conditionally related under Erk,0
+Jnk and PIP3 are not conditionally related under Mek,0
+Jnk and PIP3 are not conditionally related under P38,0
+Jnk and PIP3 are not conditionally related under PIP2,0
+Jnk and PIP3 are not conditionally related under PKA,0
+Jnk and PIP3 are not conditionally related under PKC,0
+Jnk and PIP3 are not conditionally related under Plcg,0
+Jnk and PIP3 are not conditionally related under Raf,0
+Jnk and PKA are related,1
+Jnk and PKC are related,1
+Jnk and Plcg are not conditionally related under Akt,0
+Jnk and Plcg are not conditionally related under Erk,0
+Jnk and Plcg are not conditionally related under Mek,0
+Jnk and Plcg are not conditionally related under P38,0
+Jnk and Plcg are not conditionally related under PIP2,0
+Jnk and Plcg are not conditionally related under PIP3,0
+Jnk and Plcg are not conditionally related under PKA,0
+Jnk and Plcg are not conditionally related under PKC,0
+Jnk and Plcg are not conditionally related under Raf,0
+Jnk and Raf are not conditionally related under Akt,0
+Jnk and Raf are not conditionally related under Erk,0
+Jnk and Raf are not conditionally related under Mek,0
+Jnk and Raf are not conditionally related under P38,0
+Jnk and Raf are not conditionally related under PIP2,0
+Jnk and Raf are not conditionally related under PIP3,0
+Jnk and Raf are conditionally related under PKA,1
+Jnk and Raf are conditionally related under PKC,1
+Jnk and Raf are not conditionally related under Plcg,0
+Mek and Akt are related,1
+Mek and Erk are related,1
+Mek and Jnk are not conditionally related under Akt,0
+Mek and Jnk are not conditionally related under Erk,0
+Mek and Jnk are not conditionally related under P38,0
+Mek and Jnk are not conditionally related under PIP2,0
+Mek and Jnk are not conditionally related under PIP3,0
+Mek and Jnk are conditionally related under PKA,1
+Mek and Jnk are conditionally related under PKC,1
+Mek and Jnk are not conditionally related under Plcg,0
+Mek and Jnk are not conditionally related under Raf,0
+Mek and P38 are not conditionally related under Akt,0
+Mek and P38 are not conditionally related under Erk,0
+Mek and P38 are not conditionally related under Jnk,0
+Mek and P38 are not conditionally related under PIP2,0
+Mek and P38 are not conditionally related under PIP3,0
+Mek and P38 are conditionally related under PKA,1
+Mek and P38 are conditionally related under PKC,1
+Mek and P38 are not conditionally related under Plcg,0
+Mek and P38 are not conditionally related under Raf,0
+Mek and PIP2 are not conditionally related under Akt,0
+Mek and PIP2 are not conditionally related under Erk,0
+Mek and PIP2 are not conditionally related under Jnk,0
+Mek and PIP2 are not conditionally related under P38,0
+Mek and PIP2 are not conditionally related under PIP3,0
+Mek and PIP2 are not conditionally related under PKA,0
+Mek and PIP2 are not conditionally related under PKC,0
+Mek and PIP2 are not conditionally related under Plcg,0
+Mek and PIP2 are not conditionally related under Raf,0
+Mek and PIP3 are not conditionally related under Akt,0
+Mek and PIP3 are not conditionally related under Erk,0
+Mek and PIP3 are not conditionally related under Jnk,0
+Mek and PIP3 are not conditionally related under P38,0
+Mek and PIP3 are not conditionally related under PIP2,0
+Mek and PIP3 are not conditionally related under PKA,0
+Mek and PIP3 are not conditionally related under PKC,0
+Mek and PIP3 are not conditionally related under Plcg,0
+Mek and PIP3 are not conditionally related under Raf,0
+Mek and PKA are related,1
+Mek and PKC are related,1
+Mek and Plcg are not conditionally related under Akt,0
+Mek and Plcg are not conditionally related under Erk,0
+Mek and Plcg are not conditionally related under Jnk,0
+Mek and Plcg are not conditionally related under P38,0
+Mek and Plcg are not conditionally related under PIP2,0
+Mek and Plcg are not conditionally related under PIP3,0
+Mek and Plcg are not conditionally related under PKA,0
+Mek and Plcg are not conditionally related under PKC,0
+Mek and Plcg are not conditionally related under Raf,0
+Mek and Raf are related,1
+P38 and Akt are not conditionally related under Erk,0
+P38 and Akt are not conditionally related under Jnk,0
+P38 and Akt are not conditionally related under Mek,0
+P38 and Akt are not conditionally related under PIP2,0
+P38 and Akt are not conditionally related under PIP3,0
+P38 and Akt are conditionally related under PKA,1
+P38 and Akt are conditionally related under PKC,1
+P38 and Akt are not conditionally related under Plcg,0
+P38 and Akt are not conditionally related under Raf,0
+P38 and Erk are not conditionally related under Akt,0
+P38 and Erk are not conditionally related under Jnk,0
+P38 and Erk are not conditionally related under Mek,0
+P38 and Erk are not conditionally related under PIP2,0
+P38 and Erk are not conditionally related under PIP3,0
+P38 and Erk are conditionally related under PKA,1
+P38 and Erk are conditionally related under PKC,1
+P38 and Erk are not conditionally related under Plcg,0
+P38 and Erk are not conditionally related under Raf,0
+P38 and Jnk are not conditionally related under Akt,0
+P38 and Jnk are not conditionally related under Erk,0
+P38 and Jnk are not conditionally related under Mek,0
+P38 and Jnk are not conditionally related under PIP2,0
+P38 and Jnk are not conditionally related under PIP3,0
+P38 and Jnk are conditionally related under PKA,1
+P38 and Jnk are conditionally related under PKC,1
+P38 and Jnk are not conditionally related under Plcg,0
+P38 and Jnk are not conditionally related under Raf,0
+P38 and Mek are not conditionally related under Akt,0
+P38 and Mek are not conditionally related under Erk,0
+P38 and Mek are not conditionally related under Jnk,0
+P38 and Mek are not conditionally related under PIP2,0
+P38 and Mek are not conditionally related under PIP3,0
+P38 and Mek are conditionally related under PKA,1
+P38 and Mek are conditionally related under PKC,1
+P38 and Mek are not conditionally related under Plcg,0
+P38 and Mek are not conditionally related under Raf,0
+P38 and PIP2 are not conditionally related under Akt,0
+P38 and PIP2 are not conditionally related under Erk,0
+P38 and PIP2 are not conditionally related under Jnk,0
+P38 and PIP2 are not conditionally related under Mek,0
+P38 and PIP2 are not conditionally related under PIP3,0
+P38 and PIP2 are not conditionally related under PKA,0
+P38 and PIP2 are not conditionally related under PKC,0
+P38 and PIP2 are not conditionally related under Plcg,0
+P38 and PIP2 are not conditionally related under Raf,0
+P38 and PIP3 are not conditionally related under Akt,0
+P38 and PIP3 are not conditionally related under Erk,0
+P38 and PIP3 are not conditionally related under Jnk,0
+P38 and PIP3 are not conditionally related under Mek,0
+P38 and PIP3 are not conditionally related under PIP2,0
+P38 and PIP3 are not conditionally related under PKA,0
+P38 and PIP3 are not conditionally related under PKC,0
+P38 and PIP3 are not conditionally related under Plcg,0
+P38 and PIP3 are not conditionally related under Raf,0
+P38 and PKA are related,1
+P38 and PKC are related,1
+P38 and Plcg are not conditionally related under Akt,0
+P38 and Plcg are not conditionally related under Erk,0
+P38 and Plcg are not conditionally related under Jnk,0
+P38 and Plcg are not conditionally related under Mek,0
+P38 and Plcg are not conditionally related under PIP2,0
+P38 and Plcg are not conditionally related under PIP3,0
+P38 and Plcg are not conditionally related under PKA,0
+P38 and Plcg are not conditionally related under PKC,0
+P38 and Plcg are not conditionally related under Raf,0
+P38 and Raf are not conditionally related under Akt,0
+P38 and Raf are not conditionally related under Erk,0
+P38 and Raf are not conditionally related under Jnk,0
+P38 and Raf are not conditionally related under Mek,0
+P38 and Raf are not conditionally related under PIP2,0
+P38 and Raf are not conditionally related under PIP3,0
+P38 and Raf are conditionally related under PKA,1
+P38 and Raf are conditionally related under PKC,1
+P38 and Raf are not conditionally related under Plcg,0
+PIP2 and Akt are not conditionally related under Erk,0
+PIP2 and Akt are not conditionally related under Jnk,0
+PIP2 and Akt are not conditionally related under Mek,0
+PIP2 and Akt are not conditionally related under P38,0
+PIP2 and Akt are not conditionally related under PIP3,0
+PIP2 and Akt are not conditionally related under PKA,0
+PIP2 and Akt are not conditionally related under PKC,0
+PIP2 and Akt are not conditionally related under Plcg,0
+PIP2 and Akt are not conditionally related under Raf,0
+PIP2 and Erk are not conditionally related under Akt,0
+PIP2 and Erk are not conditionally related under Jnk,0
+PIP2 and Erk are not conditionally related under Mek,0
+PIP2 and Erk are not conditionally related under P38,0
+PIP2 and Erk are not conditionally related under PIP3,0
+PIP2 and Erk are not conditionally related under PKA,0
+PIP2 and Erk are not conditionally related under PKC,0
+PIP2 and Erk are not conditionally related under Plcg,0
+PIP2 and Erk are not conditionally related under Raf,0
+PIP2 and Jnk are not conditionally related under Akt,0
+PIP2 and Jnk are not conditionally related under Erk,0
+PIP2 and Jnk are not conditionally related under Mek,0
+PIP2 and Jnk are not conditionally related under P38,0
+PIP2 and Jnk are not conditionally related under PIP3,0
+PIP2 and Jnk are not conditionally related under PKA,0
+PIP2 and Jnk are not conditionally related under PKC,0
+PIP2 and Jnk are not conditionally related under Plcg,0
+PIP2 and Jnk are not conditionally related under Raf,0
+PIP2 and Mek are not conditionally related under Akt,0
+PIP2 and Mek are not conditionally related under Erk,0
+PIP2 and Mek are not conditionally related under Jnk,0
+PIP2 and Mek are not conditionally related under P38,0
+PIP2 and Mek are not conditionally related under PIP3,0
+PIP2 and Mek are not conditionally related under PKA,0
+PIP2 and Mek are not conditionally related under PKC,0
+PIP2 and Mek are not conditionally related under Plcg,0
+PIP2 and Mek are not conditionally related under Raf,0
+PIP2 and P38 are not conditionally related under Akt,0
+PIP2 and P38 are not conditionally related under Erk,0
+PIP2 and P38 are not conditionally related under Jnk,0
+PIP2 and P38 are not conditionally related under Mek,0
+PIP2 and P38 are not conditionally related under PIP3,0
+PIP2 and P38 are not conditionally related under PKA,0
+PIP2 and P38 are not conditionally related under PKC,0
+PIP2 and P38 are not conditionally related under Plcg,0
+PIP2 and P38 are not conditionally related under Raf,0
+PIP2 and PIP3 are related,1
+PIP2 and PKA are not conditionally related under Akt,0
+PIP2 and PKA are not conditionally related under Erk,0
+PIP2 and PKA are not conditionally related under Jnk,0
+PIP2 and PKA are not conditionally related under Mek,0
+PIP2 and PKA are not conditionally related under P38,0
+PIP2 and PKA are not conditionally related under PIP3,0
+PIP2 and PKA are not conditionally related under PKC,0
+PIP2 and PKA are not conditionally related under Plcg,0
+PIP2 and PKA are not conditionally related under Raf,0
+PIP2 and PKC are not conditionally related under Akt,0
+PIP2 and PKC are not conditionally related under Erk,0
+PIP2 and PKC are not conditionally related under Jnk,0
+PIP2 and PKC are not conditionally related under Mek,0
+PIP2 and PKC are not conditionally related under P38,0
+PIP2 and PKC are not conditionally related under PIP3,0
+PIP2 and PKC are not conditionally related under PKA,0
+PIP2 and PKC are not conditionally related under Plcg,0
+PIP2 and PKC are not conditionally related under Raf,0
+PIP2 and Plcg are related,1
+PIP2 and Raf are not conditionally related under Akt,0
+PIP2 and Raf are not conditionally related under Erk,0
+PIP2 and Raf are not conditionally related under Jnk,0
+PIP2 and Raf are not conditionally related under Mek,0
+PIP2 and Raf are not conditionally related under P38,0
+PIP2 and Raf are not conditionally related under PIP3,0
+PIP2 and Raf are not conditionally related under PKA,0
+PIP2 and Raf are not conditionally related under PKC,0
+PIP2 and Raf are not conditionally related under Plcg,0
+PIP3 and Akt are not conditionally related under Erk,0
+PIP3 and Akt are not conditionally related under Jnk,0
+PIP3 and Akt are not conditionally related under Mek,0
+PIP3 and Akt are not conditionally related under P38,0
+PIP3 and Akt are not conditionally related under PIP2,0
+PIP3 and Akt are not conditionally related under PKA,0
+PIP3 and Akt are not conditionally related under PKC,0
+PIP3 and Akt are not conditionally related under Plcg,0
+PIP3 and Akt are not conditionally related under Raf,0
+PIP3 and Erk are not conditionally related under Akt,0
+PIP3 and Erk are not conditionally related under Jnk,0
+PIP3 and Erk are not conditionally related under Mek,0
+PIP3 and Erk are not conditionally related under P38,0
+PIP3 and Erk are not conditionally related under PIP2,0
+PIP3 and Erk are not conditionally related under PKA,0
+PIP3 and Erk are not conditionally related under PKC,0
+PIP3 and Erk are not conditionally related under Plcg,0
+PIP3 and Erk are not conditionally related under Raf,0
+PIP3 and Jnk are not conditionally related under Akt,0
+PIP3 and Jnk are not conditionally related under Erk,0
+PIP3 and Jnk are not conditionally related under Mek,0
+PIP3 and Jnk are not conditionally related under P38,0
+PIP3 and Jnk are not conditionally related under PIP2,0
+PIP3 and Jnk are not conditionally related under PKA,0
+PIP3 and Jnk are not conditionally related under PKC,0
+PIP3 and Jnk are not conditionally related under Plcg,0
+PIP3 and Jnk are not conditionally related under Raf,0
+PIP3 and Mek are not conditionally related under Akt,0
+PIP3 and Mek are not conditionally related under Erk,0
+PIP3 and Mek are not conditionally related under Jnk,0
+PIP3 and Mek are not conditionally related under P38,0
+PIP3 and Mek are not conditionally related under PIP2,0
+PIP3 and Mek are not conditionally related under PKA,0
+PIP3 and Mek are not conditionally related under PKC,0
+PIP3 and Mek are not conditionally related under Plcg,0
+PIP3 and Mek are not conditionally related under Raf,0
+PIP3 and P38 are not conditionally related under Akt,0
+PIP3 and P38 are not conditionally related under Erk,0
+PIP3 and P38 are not conditionally related under Jnk,0
+PIP3 and P38 are not conditionally related under Mek,0
+PIP3 and P38 are not conditionally related under PIP2,0
+PIP3 and P38 are not conditionally related under PKA,0
+PIP3 and P38 are not conditionally related under PKC,0
+PIP3 and P38 are not conditionally related under Plcg,0
+PIP3 and P38 are not conditionally related under Raf,0
+PIP3 and PIP2 are related,1
+PIP3 and PKA are not conditionally related under Akt,0
+PIP3 and PKA are not conditionally related under Erk,0
+PIP3 and PKA are not conditionally related under Jnk,0
+PIP3 and PKA are not conditionally related under Mek,0
+PIP3 and PKA are not conditionally related under P38,0
+PIP3 and PKA are not conditionally related under PIP2,0
+PIP3 and PKA are not conditionally related under PKC,0
+PIP3 and PKA are not conditionally related under Plcg,0
+PIP3 and PKA are not conditionally related under Raf,0
+PIP3 and PKC are not conditionally related under Akt,0
+PIP3 and PKC are not conditionally related under Erk,0
+PIP3 and PKC are not conditionally related under Jnk,0
+PIP3 and PKC are not conditionally related under Mek,0
+PIP3 and PKC are not conditionally related under P38,0
+PIP3 and PKC are not conditionally related under PIP2,0
+PIP3 and PKC are not conditionally related under PKA,0
+PIP3 and PKC are not conditionally related under Plcg,0
+PIP3 and PKC are not conditionally related under Raf,0
+PIP3 and Plcg are related,1
+PIP3 and Raf are not conditionally related under Akt,0
+PIP3 and Raf are not conditionally related under Erk,0
+PIP3 and Raf are not conditionally related under Jnk,0
+PIP3 and Raf are not conditionally related under Mek,0
+PIP3 and Raf are not conditionally related under P38,0
+PIP3 and Raf are not conditionally related under PIP2,0
+PIP3 and Raf are not conditionally related under PKA,0
+PIP3 and Raf are not conditionally related under PKC,0
+PIP3 and Raf are not conditionally related under Plcg,0
+PKA and Akt are related,1
+PKA and Erk are related,1
+PKA and Jnk are related,1
+PKA and Mek are related,1
+PKA and P38 are related,1
+PKA and PIP2 are not conditionally related under Akt,0
+PKA and PIP2 are not conditionally related under Erk,0
+PKA and PIP2 are not conditionally related under Jnk,0
+PKA and PIP2 are not conditionally related under Mek,0
+PKA and PIP2 are not conditionally related under P38,0
+PKA and PIP2 are not conditionally related under PIP3,0
+PKA and PIP2 are not conditionally related under PKC,0
+PKA and PIP2 are not conditionally related under Plcg,0
+PKA and PIP2 are not conditionally related under Raf,0
+PKA and PIP3 are not conditionally related under Akt,0
+PKA and PIP3 are not conditionally related under Erk,0
+PKA and PIP3 are not conditionally related under Jnk,0
+PKA and PIP3 are not conditionally related under Mek,0
+PKA and PIP3 are not conditionally related under P38,0
+PKA and PIP3 are not conditionally related under PIP2,0
+PKA and PIP3 are not conditionally related under PKC,0
+PKA and PIP3 are not conditionally related under Plcg,0
+PKA and PIP3 are not conditionally related under Raf,0
+PKA and PKC are related,1
+PKA and Plcg are not conditionally related under Akt,0
+PKA and Plcg are not conditionally related under Erk,0
+PKA and Plcg are not conditionally related under Jnk,0
+PKA and Plcg are not conditionally related under Mek,0
+PKA and Plcg are not conditionally related under P38,0
+PKA and Plcg are not conditionally related under PIP2,0
+PKA and Plcg are not conditionally related under PIP3,0
+PKA and Plcg are not conditionally related under PKC,0
+PKA and Plcg are not conditionally related under Raf,0
+PKA and Raf are related,1
+PKC and Akt are related,1
+PKC and Erk are related,1
+PKC and Jnk are related,1
+PKC and Mek are related,1
+PKC and P38 are related,1
+PKC and PIP2 are not conditionally related under Akt,0
+PKC and PIP2 are not conditionally related under Erk,0
+PKC and PIP2 are not conditionally related under Jnk,0
+PKC and PIP2 are not conditionally related under Mek,0
+PKC and PIP2 are not conditionally related under P38,0
+PKC and PIP2 are not conditionally related under PIP3,0
+PKC and PIP2 are not conditionally related under PKA,0
+PKC and PIP2 are not conditionally related under Plcg,0
+PKC and PIP2 are not conditionally related under Raf,0
+PKC and PIP3 are not conditionally related under Akt,0
+PKC and PIP3 are not conditionally related under Erk,0
+PKC and PIP3 are not conditionally related under Jnk,0
+PKC and PIP3 are not conditionally related under Mek,0
+PKC and PIP3 are not conditionally related under P38,0
+PKC and PIP3 are not conditionally related under PIP2,0
+PKC and PIP3 are not conditionally related under PKA,0
+PKC and PIP3 are not conditionally related under Plcg,0
+PKC and PIP3 are not conditionally related under Raf,0
+PKC and PKA are related,1
+PKC and Plcg are not conditionally related under Akt,0
+PKC and Plcg are not conditionally related under Erk,0
+PKC and Plcg are not conditionally related under Jnk,0
+PKC and Plcg are not conditionally related under Mek,0
+PKC and Plcg are not conditionally related under P38,0
+PKC and Plcg are not conditionally related under PIP2,0
+PKC and Plcg are not conditionally related under PIP3,0
+PKC and Plcg are not conditionally related under PKA,0
+PKC and Plcg are not conditionally related under Raf,0
+PKC and Raf are related,1
+Plcg and Akt are not conditionally related under Erk,0
+Plcg and Akt are not conditionally related under Jnk,0
+Plcg and Akt are not conditionally related under Mek,0
+Plcg and Akt are not conditionally related under P38,0
+Plcg and Akt are not conditionally related under PIP2,0
+Plcg and Akt are not conditionally related under PIP3,0
+Plcg and Akt are not conditionally related under PKA,0
+Plcg and Akt are not conditionally related under PKC,0
+Plcg and Akt are not conditionally related under Raf,0
+Plcg and Erk are not conditionally related under Akt,0
+Plcg and Erk are not conditionally related under Jnk,0
+Plcg and Erk are not conditionally related under Mek,0
+Plcg and Erk are not conditionally related under P38,0
+Plcg and Erk are not conditionally related under PIP2,0
+Plcg and Erk are not conditionally related under PIP3,0
+Plcg and Erk are not conditionally related under PKA,0
+Plcg and Erk are not conditionally related under PKC,0
+Plcg and Erk are not conditionally related under Raf,0
+Plcg and Jnk are not conditionally related under Akt,0
+Plcg and Jnk are not conditionally related under Erk,0
+Plcg and Jnk are not conditionally related under Mek,0
+Plcg and Jnk are not conditionally related under P38,0
+Plcg and Jnk are not conditionally related under PIP2,0
+Plcg and Jnk are not conditionally related under PIP3,0
+Plcg and Jnk are not conditionally related under PKA,0
+Plcg and Jnk are not conditionally related under PKC,0
+Plcg and Jnk are not conditionally related under Raf,0
+Plcg and Mek are not conditionally related under Akt,0
+Plcg and Mek are not conditionally related under Erk,0
+Plcg and Mek are not conditionally related under Jnk,0
+Plcg and Mek are not conditionally related under P38,0
+Plcg and Mek are not conditionally related under PIP2,0
+Plcg and Mek are not conditionally related under PIP3,0
+Plcg and Mek are not conditionally related under PKA,0
+Plcg and Mek are not conditionally related under PKC,0
+Plcg and Mek are not conditionally related under Raf,0
+Plcg and P38 are not conditionally related under Akt,0
+Plcg and P38 are not conditionally related under Erk,0
+Plcg and P38 are not conditionally related under Jnk,0
+Plcg and P38 are not conditionally related under Mek,0
+Plcg and P38 are not conditionally related under PIP2,0
+Plcg and P38 are not conditionally related under PIP3,0
+Plcg and P38 are not conditionally related under PKA,0
+Plcg and P38 are not conditionally related under PKC,0
+Plcg and P38 are not conditionally related under Raf,0
+Plcg and PIP2 are related,1
+Plcg and PIP3 are related,1
+Plcg and PKA are not conditionally related under Akt,0
+Plcg and PKA are not conditionally related under Erk,0
+Plcg and PKA are not conditionally related under Jnk,0
+Plcg and PKA are not conditionally related under Mek,0
+Plcg and PKA are not conditionally related under P38,0
+Plcg and PKA are not conditionally related under PIP2,0
+Plcg and PKA are not conditionally related under PIP3,0
+Plcg and PKA are not conditionally related under PKC,0
+Plcg and PKA are not conditionally related under Raf,0
+Plcg and PKC are not conditionally related under Akt,0
+Plcg and PKC are not conditionally related under Erk,0
+Plcg and PKC are not conditionally related under Jnk,0
+Plcg and PKC are not conditionally related under Mek,0
+Plcg and PKC are not conditionally related under P38,0
+Plcg and PKC are not conditionally related under PIP2,0
+Plcg and PKC are not conditionally related under PIP3,0
+Plcg and PKC are not conditionally related under PKA,0
+Plcg and PKC are not conditionally related under Raf,0
+Plcg and Raf are not conditionally related under Akt,0
+Plcg and Raf are not conditionally related under Erk,0
+Plcg and Raf are not conditionally related under Jnk,0
+Plcg and Raf are not conditionally related under Mek,0
+Plcg and Raf are not conditionally related under P38,0
+Plcg and Raf are not conditionally related under PIP2,0
+Plcg and Raf are not conditionally related under PIP3,0
+Plcg and Raf are not conditionally related under PKA,0
+Plcg and Raf are not conditionally related under PKC,0
+Raf and Akt are related,1
+Raf and Erk are related,1
+Raf and Jnk are not conditionally related under Akt,0
+Raf and Jnk are not conditionally related under Erk,0
+Raf and Jnk are not conditionally related under Mek,0
+Raf and Jnk are not conditionally related under P38,0
+Raf and Jnk are not conditionally related under PIP2,0
+Raf and Jnk are not conditionally related under PIP3,0
+Raf and Jnk are conditionally related under PKA,1
+Raf and Jnk are conditionally related under PKC,1
+Raf and Jnk are not conditionally related under Plcg,0
+Raf and Mek are related,1
+Raf and P38 are not conditionally related under Akt,0
+Raf and P38 are not conditionally related under Erk,0
+Raf and P38 are not conditionally related under Jnk,0
+Raf and P38 are not conditionally related under Mek,0
+Raf and P38 are not conditionally related under PIP2,0
+Raf and P38 are not conditionally related under PIP3,0
+Raf and P38 are conditionally related under PKA,1
+Raf and P38 are conditionally related under PKC,1
+Raf and P38 are not conditionally related under Plcg,0
+Raf and PIP2 are not conditionally related under Akt,0
+Raf and PIP2 are not conditionally related under Erk,0
+Raf and PIP2 are not conditionally related under Jnk,0
+Raf and PIP2 are not conditionally related under Mek,0
+Raf and PIP2 are not conditionally related under P38,0
+Raf and PIP2 are not conditionally related under PIP3,0
+Raf and PIP2 are not conditionally related under PKA,0
+Raf and PIP2 are not conditionally related under PKC,0
+Raf and PIP2 are not conditionally related under Plcg,0
+Raf and PIP3 are not conditionally related under Akt,0
+Raf and PIP3 are not conditionally related under Erk,0
+Raf and PIP3 are not conditionally related under Jnk,0
+Raf and PIP3 are not conditionally related under Mek,0
+Raf and PIP3 are not conditionally related under P38,0
+Raf and PIP3 are not conditionally related under PIP2,0
+Raf and PIP3 are not conditionally related under PKA,0
+Raf and PIP3 are not conditionally related under PKC,0
+Raf and PIP3 are not conditionally related under Plcg,0
+Raf and PKA are related,1
+Raf and PKC are related,1
+Raf and Plcg are not conditionally related under Akt,0
+Raf and Plcg are not conditionally related under Erk,0
+Raf and Plcg are not conditionally related under Jnk,0
+Raf and Plcg are not conditionally related under Mek,0
+Raf and Plcg are not conditionally related under P38,0
+Raf and Plcg are not conditionally related under PIP2,0
+Raf and Plcg are not conditionally related under PIP3,0
+Raf and Plcg are not conditionally related under PKA,0
+Raf and Plcg are not conditionally related under PKC,0

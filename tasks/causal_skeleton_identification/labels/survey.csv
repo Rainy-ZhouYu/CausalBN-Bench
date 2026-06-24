@@ -1,0 +1,43 @@
+Relationship,Number
+A and S are conditionally related under E,1
+A and S are conditionally related under O,1
+A and S are conditionally related under R,1
+A and S are conditionally related under T,1
+A and E are related,1
+A and O are related,1
+A and R are related,1
+A and T are related,1
+S and A are conditionally related under E,1
+S and A are conditionally related under O,1
+S and A are conditionally related under R,1
+S and A are conditionally related under T,1
+S and E are related,1
+S and O are related,1
+S and R are related,1
+S and T are related,1
+E and A are related,1
+E and S are related,1
+E and O are related,1
+E and R are related,1
+E and T are related,1
+O and A are related,1
+O and S are related,1
+O and E are related,1
+O and R are conditionally related under A,1
+O and R are conditionally related under S,1
+O and R are conditionally related under E,1
+O and R are conditionally related under T,1
+O and T are related,1
+R and A are related,1
+R and S are related,1
+R and E are related,1
+R and O are conditionally related under A,1
+R and O are conditionally related under S,1
+R and O are conditionally related under E,1
+R and O are conditionally related under T,1
+R and T are related,1
+T and A are related,1
+T and S are related,1
+T and E are related,1
+T and O are related,1
+T and R are related,1

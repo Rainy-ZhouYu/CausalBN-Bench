@@ -1,0 +1,50 @@
+prompt
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: A directly causes B? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: A causes something else which causes B? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: B directly causes A? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: B is a cause for A, but not a direct one? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: There exists at least one collider (i.e., common effect) of A and B? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: There exists at least one confounder (i.e., common cause) of A and B? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: B causes something else which causes A? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: A is a cause for B, but not a direct one? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: There exists at least one collider (i.e., common effect) of B and A? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 2 variables, A and B. All the statistical relations among these 2 variables are as follows: A correlates with B.
+Can we deduct the following: There exists at least one confounder (i.e., common cause) of B and A? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 3 variables, A, B and C. All the statistical relations among these 3 variables are as follows: A correlates with B. A correlates with C. B correlates with C. However, B and C are independent given A.
+Can we deduct the following: A directly causes B? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 3 variables, A, B and C. All the statistical relations among these 3 variables are as follows: A correlates with B. A correlates with C. B correlates with C. However, B and C are independent given A.
+Can we deduct the following: A causes something else which causes B? Just answer ""Yes"" or ""No.""
+
+"
+"Question: Suppose there is a closed system of 3 variables, A, B and C. All the statistical relations among these 3 variables are as follows: A correlates with B. A correlates with C. B correlates with C. However, B and C are independent given A.
