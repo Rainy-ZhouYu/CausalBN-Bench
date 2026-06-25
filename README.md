@@ -138,9 +138,6 @@ python inference_examples/causality_identification/Causal_inference.py
 
 This example keeps small Asia prompt/question/label files and inference/evaluation scripts, while removing cache files, pickle caches, hard-coded API keys, and local machine paths.
 
-## Release Scope
-
-This GitHub repository is the normalized source-code release. Historical raw repository snapshots are kept outside the Git-tracked release on the working server, while the public repository uses the task-aligned layout above.
 
 ## Citation
 
