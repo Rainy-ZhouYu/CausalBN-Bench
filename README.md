@@ -153,7 +153,3 @@ This example keeps small Asia prompt/question/label files and inference/evaluati
   doi={10.1109/TAI.2026.3703427}
 }
 ```
-
-## License
-
-Add a license before public release. Common choices are MIT or Apache-2.0 for code and CC BY 4.0 for benchmark data.
