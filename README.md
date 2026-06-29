@@ -16,37 +16,8 @@ https://huggingface.co/datasets/IEEERainy/CausalBN-Bench
 
 ![CausalBN-Bench overview](docs/figures/causalbn_bench_overview.png)
 
-## Repository Layout
 
-```text
-CausalBN-Bench/
-  tasks/
-    correlation_identification/
-    causal_skeleton_identification/
-    causality_identification/
-      direct_causality_prompts/
-      variable_name_prompts/
-  prompt_formats/
-    background_knowledge/
-  appendix/
-    variable_refactorization/
-    causal_strength/
-    original_prompt_baseline/
-  source_networks_and_labels/
-  evaluation/
-  experiments/
-    model_inference/
-    sample_outputs/
-  baselines/
-    finetuning/
-  examples/
-    asia_minimal_walkthrough/
-    misc_samples/
-  scripts/
-  docs/
-```
-
-## Paper Task Mapping
+## Task Mapping
 
 | Paper benchmark component | Source-code path | Hugging Face dataset path |
 | --- | --- | --- |
